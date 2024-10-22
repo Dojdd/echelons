@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ломбардный список Банка России -->
+<LombardList Date="28.04.2021">
+  <Groups>
+    <Group id="1. " Title="Облигации, выпущенные от имени Российской Федерации" Title_eng="Bonds issued on behalf of Russian Federation">
+      <Group id="1.1." Title="Облигации, выпущенные от имени Российской Федерации и размещенные на внутреннем финансовом рынке" Title_eng="Bonds issued on behalf of Russian Federation and placed in domestic financial market" />
+      <Group id="1.2." Title="Облигации, выпущенные от имени Российской Федерации и размещенные на международном финансовом рынке" Title_eng="Bonds issued on behalf of Russian Federation and placed in international financial market" />
+    </Group>
+    <Group id="2." Title="Облигации Банка России" Title_eng="Bank of Russia bonds" />
+    <Group id="3." Title="Облигации субъектов Российской Федерации и муниципальных образований" Title_eng="Regional and municipal governments’ bonds" />
+    <Group id="4." Title="Облигации с ипотечным покрытием" Title_eng="Mortgage bonds" />
+    <Group id="5. " Title="Облигации юридических лиц - резидентов Российской Федерации" Title_eng="Bonds of legal entities – residents of Russian Federation">
+      <Group id="5.1." Title="Облигации кредитных организаций и Внешэкономбанка" Title_eng="Bonds of credit institutions and Vnesheconombank" />
+      <Group id="5.2." Title="Облигации некредитных организаций" Title_eng="Bonds of non-bank organizations" />
+      <Group id="5.3." Title="Облигации, обеспеченные государственными гарантиями Российской Федерации" Title_eng="Bonds secured by the Russian Federation state guarantee" />
+    </Group>
+    <Group id="6." Title="Облигации международных финансовых организаций" Title_eng="International financial organisations bonds" />
+    <Group id="7." Title="Долговые эмиссионные ценные бумаги, выпущенные юридическими лицами-нерезидентами Российской Федерации за пределами Российской Федерации" Title_eng="Securities issued by legal entities - non-residents of Russian Federation outside Russian Federation " />
+  </Groups>
+  <Papers>
+    <Emitent gr_id="1.1." em_id="1.1.1." Emitent_name="Минфин РФ" Emitent_name_eng="Ministry of Finance RF">
+      <Paper GOS_REG="Все выпуски | All issues" ISIN="Все выпуски | All issues" DocTitle="Указание Банка России от 10.08.2012 № 2861-У" Vestnik="59 (1377)" Vestnik_date="04.10.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="1.2." em_id="1.2.1." Emitent_name="Минфин РФ" Emitent_name_eng="Ministry of Finance RF">
+      <Paper GOS_REG="Все выпуски | All issues" ISIN="Все выпуски | All issues" DocTitle="Указание Банка России от 10.08.2012 № 2861-У" Vestnik="59 (1377)" Vestnik_date="04.10.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="2." em_id="2.1." Emitent_name="Банк России" Emitent_name_eng="Bank of Russia">
+      <Paper GOS_REG="Все выпуски | All issues" ISIN="Все выпуски | All issues" DocTitle="Указание Банка России от 10.08.2012 № 2861-У" Vestnik="59 (1377)" Vestnik_date="04.10.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.1." Emitent_name="Белгородская область" Emitent_name_eng="Belgorod Region">
+      <Paper GOS_REG="RU35008BEL0" ISIN="RU000A0JUQB7" DocTitle="Пресс-релиз Банка России от 30.07.2014" Vestnik="70 (1548)" Vestnik_date="31.07.2014" New="False" />
+      <Paper GOS_REG="RU34010BEL0" ISIN="RU000A0JWKB6" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+      <Paper GOS_REG="RU35011BEL0" ISIN="RU000A0JXTW1" DocTitle="Пресс-релиз Банка России от 06.09.2017" Vestnik="77 (1911)" Vestnik_date="07.09.2017" New="False" />
+      <Paper GOS_REG="RU34012BEL0" ISIN="RU000A100PP0" DocTitle="Пресс-релиз Банка России от 30.10.2019" Vestnik="70 (2122)" Vestnik_date="30.10.2019" New="False" />
+      <Paper GOS_REG="RU34013BEL0" ISIN="RU000A100Y84" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="RU34014BEL0" ISIN="RU000A101PA0" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.2." Emitent_name="г. Москва" Emitent_name_eng="Moscow">
+      <Paper GOS_REG="RU32048MOS0" ISIN="RU000A0JNYN1" DocTitle="Письмо Банка России от 30.04.2010 № 63-Т" Vestnik="24 (1193)" Vestnik_date="06.05.2010" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.3." Emitent_name="г. Новосибирск" Emitent_name_eng="Novosibirsk">
+      <Paper GOS_REG="RU35007NSB1" ISIN="RU000A0JVUD3" DocTitle="Пресс-релиз Банка России от 05.11.2015" Vestnik="96 (1692)" Vestnik_date="05.11.2015" New="False" />
+      <Paper GOS_REG="RU35008NSB1" ISIN="RU000A0JWHW8" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.4." Emitent_name="г. Санкт-Петербург" Emitent_name_eng="Saint-Petersburg">
+      <Paper GOS_REG="RU35001GSP0" ISIN="RU000A0ZYHX8" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="RU35002GSP0" ISIN="RU000A0ZYKJ1" DocTitle="Пресс-релиз Банка России от 10.06.2020" Vestnik="44 (2180)" Vestnik_date="10.06.2020" New="False" />
+      <Paper GOS_REG="RU35003GSP0" ISIN="RU000A102A15" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.5." Emitent_name="Иркутская область" Emitent_name_eng="Irkutsk Region">
+      <Paper GOS_REG="RU34001IRK0" ISIN="RU000A0JX314" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.6." Emitent_name="Камчатский край" Emitent_name_eng="Kamchatka Territory">
+      <Paper GOS_REG="RU35001KAM0" ISIN="RU000A0ZZSW4" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.7." Emitent_name="Кемеровская область" Emitent_name_eng="Kemerovo Region">
+      <Paper GOS_REG="RU35002KEM0" ISIN="RU000A0ZYB40" DocTitle="Пресс-релиз Банка России от 18.12.2017" Vestnik="108 (1942)" Vestnik_date="18.12.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.8." Emitent_name="Краснодарский край" Emitent_name_eng="Krasnodar Territory">
+      <Paper GOS_REG="RU35001KND0" ISIN="RU000A0JXYS9" DocTitle="Пресс-релиз Банка России от 06.09.2017" Vestnik="77 (1911)" Vestnik_date="07.09.2017" New="False" />
+      <Paper GOS_REG="RU35002KND0" ISIN="RU000A0ZZ8X4" DocTitle="Пресс-релиз Банка России от 25.07.2018" Vestnik="58 (2012)" Vestnik_date="26.07.2018" New="False" />
+      <Paper GOS_REG="RU35003KND0" ISIN="RU000A1011B5" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.9." Emitent_name="Красноярский край" Emitent_name_eng="Krasnoyarsk Territory">
+      <Paper GOS_REG="RU34012KNA0" ISIN="RU000A0JWXF0" DocTitle="Пресс-релиз Банка России от 30.11.2016" Vestnik="105 (1823)" Vestnik_date="30.11.2016" New="False" />
+      <Paper GOS_REG="RU34013KNA0" ISIN="RU000A0ZYCM2" DocTitle="Пресс-релиз Банка России от 18.12.2017" Vestnik="108 (1942)" Vestnik_date="18.12.2017" New="False" />
+      <Paper GOS_REG="RU35014KNA0" ISIN="RU000A0ZYFB8" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="RU35015KNA0" ISIN="RU000A0ZZC48" DocTitle="Пресс-релиз Банка России от 29.08.2018" Vestnik="64 (2018)" Vestnik_date="29.08.2018" New="False" />
+      <Paper GOS_REG="RU35016KNA0" ISIN="RU000A0ZZM87" DocTitle="Пресс-релиз Банка России от 17.10.2018" Vestnik="78 (2032)" Vestnik_date="17.10.2018" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.10." Emitent_name="Курская область" Emitent_name_eng="Kursk Region">
+      <Paper GOS_REG="RU35001KUR0" ISIN="RU000A0ZYCD1" DocTitle="Пресс-релиз Банка России от 18.12.2017" Vestnik="108 (1942)" Vestnik_date="18.12.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.11." Emitent_name="Ленинградская область" Emitent_name_eng="Leningrad Region">
+      <Paper GOS_REG="RU35001LEN0" ISIN="RU000A0JV2J0" DocTitle="Пресс-релиз Банка России от 18.03.2015" Vestnik="22 (1618)" Vestnik_date="18.03.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.12." Emitent_name="Липецкая область" Emitent_name_eng="Lipetsk Region">
+      <Paper GOS_REG="RU35010LIP0" ISIN="RU000A0ZZR33" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+      <Paper GOS_REG="RU34011LIP0" ISIN="RU000A1013T3" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="RU34012LIP0" ISIN="RU000A102598" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.13." Emitent_name="Московская область" Emitent_name_eng="Moscow Region">
+      <Paper GOS_REG="RU35010MOO0" ISIN="RU000A0JX0B9" DocTitle="Пресс-релиз Банка России от 19.12.2016" Vestnik="112 (1230)" Vestnik_date="21.12.2016" New="False" />
+      <Paper GOS_REG="RU34011MOO0" ISIN="RU000A0ZYML3" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="RU34013MOO0" ISIN="RU000A101988" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="RU34012MOO0" ISIN="RU000A100XP4" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="RU34014MOO0" ISIN="RU000A101WL3" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+      <Paper GOS_REG="RU35015MOO0" ISIN="RU000A102CR0" DocTitle="Пресс-релиз Банка России от 23.12.2020" Vestnik="102 (2238)" Vestnik_date="23.12.2020" New="False" />
+      <Paper GOS_REG="RU35016MOO0" ISIN="RU000A102G35" DocTitle="Пресс-релиз Банка России от 17.02.2021" Vestnik="9 (2249)" Vestnik_date="17.02.2021" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.14." Emitent_name="Ненецкий автономный округ" Emitent_name_eng="Nenets Autonomous Okrug">
+      <Paper GOS_REG="RU35001NEN0" ISIN="RU000A0ZYF61" DocTitle="Пресс-релиз Банка России от 27.03.2019" Vestnik="22 (2074)" Vestnik_date="27.03.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.15." Emitent_name="Нижегородская область" Emitent_name_eng="Nizhni Novgorod Region">
+      <Paper GOS_REG="RU35011NJG0" ISIN="RU000A0JWLD0" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+      <Paper GOS_REG="RU34012NJG0" ISIN="RU000A0ZYDQ1" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.16." Emitent_name="Новосибирская область" Emitent_name_eng="Novosibirsk Region">
+      <Paper GOS_REG="RU34017ANO0" ISIN="RU000A0JWUV3" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="RU34018ANO0" ISIN="RU000A0ZYBD3" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="RU34019ANO0" ISIN="RU000A0ZZPB4" DocTitle="Пресс-релиз Банка России от 28.11.2018" Vestnik="85 (2039)" Vestnik_date="28.11.2018" New="False" />
+      <Paper GOS_REG="RU34020ANO0" ISIN="RU000A1011Q3" DocTitle="Пресс-релиз Банка России от 10.06.2020" Vestnik="44 (2180)" Vestnik_date="10.06.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.17." Emitent_name="Омская область" Emitent_name_eng="Omsk Region">
+      <Paper GOS_REG="RU35003OMS0" ISIN="RU000A0JWX87" DocTitle="Пресс-релиз Банка России от 30.11.2016" Vestnik="105 (1823)" Vestnik_date="30.11.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.18." Emitent_name="Оренбургская область" Emitent_name_eng="Orenburg Region">
+      <Paper GOS_REG="RU35002AOR0" ISIN="RU000A0JUPE3" DocTitle="Пресс-релиз Банка России от 30.07.2014" Vestnik="70 (1548)" Vestnik_date="31.07.2014" New="False" />
+      <Paper GOS_REG="RU35003AOR0" ISIN="RU000A0JVM81" DocTitle="Пресс-релиз Банка России от 03.09.2015" Vestnik="75 (1671)" Vestnik_date="04.09.2015" New="False" />
+      <Paper GOS_REG="RU35004AOR0" ISIN="RU000A0ZYKH5" DocTitle="Пресс-релиз Банка России от 17.10.2018" Vestnik="78 (2032)" Vestnik_date="17.10.2018" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.19." Emitent_name="Республика Башкортостан" Emitent_name_eng="Republic of Bashkortostan">
+      <Paper GOS_REG="RU34011BAS0" ISIN="RU000A1026B3" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.20." Emitent_name="Республика Коми" Emitent_name_eng="Komi Republic">
+      <Paper GOS_REG="RU35012KOM0" ISIN="RU000A0JVKF9" DocTitle="Пресс-релиз Банка России от 22.07.2015" Vestnik="60 (1656)" Vestnik_date="22.07.2015" New="False" />
+      <Paper GOS_REG="RU35014KOM0" ISIN="RU000A0JXUD9" DocTitle="Пресс-релиз Банка России от 10.11.2017" Vestnik="95 (1929)" Vestnik_date="15.11.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.21." Emitent_name="Республика Мордовия" Emitent_name_eng="Mordovia Republic">
+      <Paper GOS_REG="RU34003MOR0" ISIN="RU000A0JWSQ7" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.22." Emitent_name="Республика Саха (Якутия)" Emitent_name_eng="Republic of Sakha (Yakutia)">
+      <Paper GOS_REG="RU35006RSY0" ISIN="RU000A0JUQH4" DocTitle="Пресс-релиз Банка России от 30.07.2014" Vestnik="70 (1548)" Vestnik_date="31.07.2014" New="False" />
+      <Paper GOS_REG="RU35008RSY0" ISIN="RU000A0JWGT6" DocTitle="Пресс-релиз Банка России от 08.07.2016" Vestnik="65 (1783)" Vestnik_date="13.07.2016" New="False" />
+      <Paper GOS_REG="RU35009RSY0" ISIN="RU000A0JXR43" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+      <Paper GOS_REG="RU35010RSY0" ISIN="RU000A0ZZ7E6" DocTitle="Пресс-релиз Банка России от 25.07.2018" Vestnik="58 (2012)" Vestnik_date="26.07.2018" New="False" />
+      <Paper GOS_REG="RU35011RSY0" ISIN="RU000A0ZZNJ2" DocTitle="Пресс-релиз Банка России от 17.10.2018" Vestnik="78 (2032)" Vestnik_date="17.10.2018" New="False" />
+      <Paper GOS_REG="RU35012RSY0" ISIN="RU000A100CN3" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="RU35013RSY0" ISIN="RU000A1010D3" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="RU35014RSY0" ISIN="RU000A101P27" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.23." Emitent_name="Республика Хакасия" Emitent_name_eng="Khakasia Republic">
+      <Paper GOS_REG="RU35006HAK0" ISIN="RU000A0JWXQ7" DocTitle="Пресс-релиз Банка России от 30.11.2016" Vestnik="105 (1823)" Vestnik_date="30.11.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.24." Emitent_name="Самарская область" Emitent_name_eng="Samara Region">
+      <Paper GOS_REG="RU35010SAM0" ISIN="RU000A0JUQP7" DocTitle="Пресс-релиз Банка России от 03.09.2014" Vestnik="79 (1557)" Vestnik_date="05.09.2014" New="False" />
+      <Paper GOS_REG="RU35012SAM0" ISIN="RU000A0JWM56" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+      <Paper GOS_REG="RU35013SAM0" ISIN="RU000A0JXT41" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+      <Paper GOS_REG="RU35014SAM0" ISIN="RU000A0ZZ9P8" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.25." Emitent_name="Свердловская область" Emitent_name_eng="Sverdlovsk Region">
+      <Paper GOS_REG="RU35003SVS0" ISIN="RU000A0JWZ77" DocTitle="Пресс-релиз Банка России от 30.11.2016" Vestnik="105 (1823)" Vestnik_date="30.11.2016" New="False" />
+      <Paper GOS_REG="RU35004SVS0" ISIN="RU000A0ZYDU3" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="RU35005SVS0" ISIN="RU000A0ZZQH9" DocTitle="Пресс-релиз Банка России от 28.11.2018" Vestnik="85 (2039)" Vestnik_date="28.11.2018" New="False" />
+      <Paper GOS_REG="RU35006SVS0" ISIN="RU000A1016N9" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="RU35008SVS0" ISIN="RU000A101Z17" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+      <Paper GOS_REG="RU34007SVS0" ISIN="RU000A101UG7" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+      <Paper GOS_REG="RU35009SVS0" ISIN="RU000A102CT6" DocTitle="Пресс-релиз Банка России от 23.12.2020" Vestnik="102 (2238)" Vestnik_date="23.12.2020" New="False" />
+      <Paper GOS_REG="RU34010SVS0" ISIN="RU000A102DQ0" DocTitle="Пресс-релиз Банка России от 17.02.2021" Vestnik="9 (2249)" Vestnik_date="17.02.2021" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.26." Emitent_name="Ставропольский край" Emitent_name_eng="Stavropol Territory">
+      <Paper GOS_REG="RU35003STV0" ISIN="RU000A0JWY29" DocTitle="Пресс-релиз Банка России от 19.12.2016" Vestnik="112 (1230)" Vestnik_date="21.12.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.27." Emitent_name="Тамбовская область" Emitent_name_eng="Tambov Region">
+      <Paper GOS_REG="RU35002TMB0" ISIN="RU000A0JWT75" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="RU35003TMB0" ISIN="RU000A0JXVH8" DocTitle="Пресс-релиз Банка России от 06.09.2017" Vestnik="77 (1911)" Vestnik_date="07.09.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.28." Emitent_name="Удмуртская Республика" Emitent_name_eng="Udmurtia Republic">
+      <Paper GOS_REG="RU35002UDM0" ISIN="RU000A0JWT91" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.29." Emitent_name="Ханты-Мансийский автономный округ - Югра" Emitent_name_eng="Khanty-Mansiysk Autonomous Okrug-Ugra">
+      <Paper GOS_REG="RU35001HMN0" ISIN="RU000A0JX215" DocTitle="Пресс-релиз Банка России от 25.01.2017" Vestnik="10 (1844)" Vestnik_date="25.01.2017" New="False" />
+      <Paper GOS_REG="RU35002HMN0" ISIN="RU000A0ZYKW4" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.30." Emitent_name="Челябинская область" Emitent_name_eng="Chelyabinsk Region">
+      <Paper GOS_REG="RU35001CLB0" ISIN="RU000A102FV5" DocTitle="Пресс-релиз Банка России от 17.02.2021" Vestnik="9 (2249)" Vestnik_date="17.02.2021" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.31." Emitent_name="Ямало-Ненецкий автономный округ" Emitent_name_eng="Yamalo-Nenets Autonomous Okrug">
+      <Paper GOS_REG="RU35002YML0" ISIN="RU000A0JX0Z8" DocTitle="Пресс-релиз Банка России от 19.12.2016" Vestnik="112 (1230)" Vestnik_date="21.12.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="3." em_id="3.32." Emitent_name="Ярославская область" Emitent_name_eng="Yaroslavl Region">
+      <Paper GOS_REG="RU35014YRS0" ISIN="RU000A0JWHN7" DocTitle="Пресс-релиз Банка России от 08.07.2016" Vestnik="65 (1783)" Vestnik_date="13.07.2016" New="False" />
+      <Paper GOS_REG="RU35015YRS0" ISIN="RU000A0JXS83" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.1." Emitent_name="АО &quot;ИА ВТБ - БМ 2&quot;" Emitent_name_eng="JSC &quot;MA VTB - BM 2&quot;">
+      <Paper GOS_REG="4-02-81563-H" ISIN="RU000A0JWBA7" DocTitle="Пресс-релиз Банка России от 29.04.2016" Vestnik="43 (1761)" Vestnik_date="06.05.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.2." Emitent_name="ЗАО &quot;Восточно - Сибирский ипотечный агент 2012&quot;" Emitent_name_eng="CJSC &quot;Eastern - Siberian mortgage agent 2012&quot;">
+      <Paper GOS_REG="4-04-79226-H" ISIN="RU000A0JUD00" DocTitle="Пресс-релиз Банка России от 03.06.2014" Vestnik="53 (1531)" Vestnik_date="05.06.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.3." Emitent_name="ЗАО &quot;ИА ПСПб&quot;" Emitent_name_eng="CJSC &quot;MA PSPb&quot;">
+      <Paper GOS_REG="4-02-80911-H" ISIN="RU000A0JUCX1" DocTitle="Пресс-релиз Банка России от 03.06.2014" Vestnik="53 (1531)" Vestnik_date="05.06.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.4." Emitent_name="ЗАО &quot;ИА ТФБ1&quot;" Emitent_name_eng="CJSC &quot;MA TFB1&quot;">
+      <Paper GOS_REG="4-02-82233-H" ISIN="RU000A0JV508" DocTitle="Пресс-релиз Банка России от 18.03.2015" Vestnik="22 (1618)" Vestnik_date="18.03.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.5." Emitent_name="ЗАО &quot;ИАВ 3&quot;" Emitent_name_eng="CJSC &quot;MAV 3&quot;">
+      <Paper GOS_REG="4-02-81762-H" ISIN="RU000A0JUJE6" DocTitle="Пресс-релиз Банка России от 03.06.2014" Vestnik="53 (1531)" Vestnik_date="05.06.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.6." Emitent_name="ЗАО &quot;Ипотечный агент АИЖК 2011-1&quot;" Emitent_name_eng="CJSC &quot;Mortgage Agent of AHML 2011-1&quot;">
+      <Paper GOS_REG="4-09-74103-H" ISIN="RU000A0JUC19" DocTitle="Пресс-релиз Банка России от 01.10.2014" Vestnik="88 (1566)" Vestnik_date="03.10.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.7." Emitent_name="ЗАО &quot;Ипотечный агент АИЖК 2014-1&quot;" Emitent_name_eng="CJSC &quot;Mortgage Agent of AHML 2014-1&quot;">
+      <Paper GOS_REG="4-04-81450-H" ISIN="RU000A0JUJ87" DocTitle="Пресс-релиз Банка России от 03.06.2014" Vestnik="53 (1531)" Vestnik_date="05.06.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.8." Emitent_name="ООО &quot;ДОМ.РФ Ипотечный агент&quot;" Emitent_name_eng="LLC &quot;DOM.RF MBS SPV&quot;">
+      <Paper GOS_REG="4-02-00307-R-002P" ISIN="RU000A0ZYJT2" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4-13-00307-R-002P" ISIN="RU000A1018T2" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4-11-00307-R-002P" ISIN="RU000A100YY4" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4-06-00307-R-002P" ISIN="RU000A0ZZV86" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4-05-00307-R-002P" ISIN="RU000A0ZZCH9" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4-10-00307-R-002P" ISIN="RU000A100ZB9" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4-04-00307-R-002P" ISIN="RU000A0ZZNW5" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4-09-00307-R-002P" ISIN="RU000A100DQ4" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.9." Emitent_name="ООО &quot;ИА АкБарс2&quot;" Emitent_name_eng="LLC &quot;Mortgage Agent AkBars2&quot;">
+      <Paper GOS_REG="4-02-36493-R" ISIN="RU000A0JW316" DocTitle="Пресс-релиз Банка России от 29.04.2016" Vestnik="43 (1761)" Vestnik_date="06.05.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.10." Emitent_name="ООО &quot;ИАВ 5&quot;" Emitent_name_eng="&quot;MAV 5&quot; LLC">
+      <Paper GOS_REG="4-01-00324-R" ISIN="RU000A0JXQU1" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="4." em_id="4.11." Emitent_name="ПАО РОСБАНК" Emitent_name_eng="PJSC ROSBANK">
+      <Paper GOS_REG="41403338B" ISIN="RU000A0JUJG1" DocTitle="Пресс-релиз Банка России от 03.06.2014" Vestnik="53 (1531)" Vestnik_date="05.06.2014" New="False" />
+      <Paper GOS_REG="41303338B" ISIN="RU000A0JUV81" DocTitle="Пресс-релиз Банка России от 21.10.2014" Vestnik="98 (1576)" Vestnik_date="22.10.2014" New="False" />
+      <Paper GOS_REG="41503338B" ISIN="RU000A0JUW23" DocTitle="Пресс-релиз Банка России от 11.11.2014" Vestnik="103 (1581)" Vestnik_date="13.11.2014" New="False" />
+      <Paper GOS_REG="41803338B" ISIN="RU000A0JWZT6" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.1." Emitent_name="АО &quot;АЛЬФА-БАНК&quot;" Emitent_name_eng="AO &quot;ALFA-BANK&quot;">
+      <Paper GOS_REG="4B021401326B" ISIN="RU000A0JUUA1" DocTitle="Пресс-релиз Банка России от 21.10.2014" Vestnik="98 (1576)" Vestnik_date="22.10.2014" New="False" />
+      <Paper GOS_REG="4B021301326B" ISIN="RU000A0JUU90" DocTitle="Пресс-релиз Банка России от 21.10.2014" Vestnik="98 (1576)" Vestnik_date="22.10.2014" New="False" />
+      <Paper GOS_REG="4B021501326B" ISIN="RU000A0JV0U1" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B021601326B" ISIN="RU000A0JWPV3" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4B021701326B" ISIN="RU000A0JWUX9" DocTitle="Пресс-релиз Банка России от 30.11.2016" Vestnik="105 (1823)" Vestnik_date="30.11.2016" New="False" />
+      <Paper GOS_REG="4B021801326B" ISIN="RU000A0JX5W4" DocTitle="Пресс-релиз Банка России от 27.02.2017" Vestnik="25 (1859)" Vestnik_date="01.03.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.2." Emitent_name="АО &quot;МСП Банк&quot;" Emitent_name_eng="JSC SME Bank">
+      <Paper GOS_REG="40103340B" ISIN="RU000A0JS5R1" DocTitle="Письмо Банка России от 15.08.2012 № 117-Т" Vestnik="50 (1368)" Vestnik_date="22.08.2012" New="False" />
+      <Paper GOS_REG="40203340B" ISIN="RU000A0JS603" DocTitle="Письмо Банка России от 14.11.2012 № 155-Т" Vestnik="66 (1384)" Vestnik_date="21.11.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.3." Emitent_name="АО &quot;РН Банк&quot;" Emitent_name_eng="JSC &quot;RN Bank&quot;">
+      <Paper GOS_REG="40100170B" ISIN="RU000A0JWMJ5" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.4." Emitent_name="АО &quot;Россельхозбанк&quot;" Emitent_name_eng="JSC Rosselkhozbank">
+      <Paper GOS_REG="41303349B" ISIN="RU000A0JRMC0" DocTitle="Письмо Банка России от 10.08.2011 № 116-Т" Vestnik="47 (1290)" Vestnik_date="17.08.2011" New="False" />
+      <Paper GOS_REG="41403349B" ISIN="RU000A0JRLE8" DocTitle="Письмо Банка России от 10.08.2011 № 116-Т" Vestnik="47 (1290)" Vestnik_date="17.08.2011" New="False" />
+      <Paper GOS_REG="41203349B" ISIN="RU000A0JRMB2" DocTitle="Письмо Банка России от 10.08.2011 № 116-Т" Vestnik="47 (1290)" Vestnik_date="17.08.2011" New="False" />
+      <Paper GOS_REG="41503349B" ISIN="RU000A0JRVN8" DocTitle="Письмо Банка России от 16.12.2011 № 187-Т" Vestnik="72 (1315)" Vestnik_date="21.12.2011" New="False" />
+      <Paper GOS_REG="41603349B" ISIN="RU000A0JS6N8" DocTitle="Письмо Банка России от 09.07.2012 № 100-Т" Vestnik="36 (1354)" Vestnik_date="11.07.2012" New="False" />
+      <Paper GOS_REG="41703349B" ISIN="RU000A0JT7M7" DocTitle="Письмо Банка России от 26.12.2012 № 182-Т" Vestnik="77 (1395)" Vestnik_date="28.12.2012" New="False" />
+      <Paper GOS_REG="41803349B" ISIN="RU000A0JT874" DocTitle="Письмо Банка России от 26.12.2012 № 182-Т" Vestnik="77 (1395)" Vestnik_date="28.12.2012" New="False" />
+      <Paper GOS_REG="42003349B" ISIN="RU000A0JTVJ2" DocTitle="Письмо Банка России от 27.06.2013 № 120-Т" Vestnik="37 (1433)" Vestnik_date="10.07.2013" New="False" />
+      <Paper GOS_REG="42103349B" ISIN="RU000A0JU1Q8" DocTitle="Пресс-релиз Банка России от 04.09.2013" Vestnik="48 (1444)" Vestnik_date="04.09.2013" New="False" />
+      <Paper GOS_REG="42203349B" ISIN="RU000A0JU6A1" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+      <Paper GOS_REG="42303349B" ISIN="RU000A0JUAD7" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+      <Paper GOS_REG="4B021503349B" ISIN="RU000A0JV3R1" DocTitle="Пресс-релиз Банка России от 02.02.2015" Vestnik="9 (1605)" Vestnik_date="04.02.2015" New="False" />
+      <Paper GOS_REG="4B021403349B" ISIN="RU000A0JUW72" DocTitle="Пресс-релиз Банка России от 18.03.2015" Vestnik="22 (1618)" Vestnik_date="18.03.2015" New="False" />
+      <Paper GOS_REG="4B021703349B" ISIN="RU000A0JV987" DocTitle="Пресс-релиз Банка России от 15.04.2015" Vestnik="34 (1630)" Vestnik_date="15.04.2015" New="False" />
+      <Paper GOS_REG="4B020803349B" ISIN="RU000A0JV805" DocTitle="Пресс-релиз Банка России от 15.04.2015" Vestnik="34 (1630)" Vestnik_date="15.04.2015" New="False" />
+      <Paper GOS_REG="4B021303349B" ISIN="RU000A0JUW31" DocTitle="Пресс-релиз Банка России от 03.09.2015" Vestnik="75 (1671)" Vestnik_date="04.09.2015" New="False" />
+      <Paper GOS_REG="4B020903349B" ISIN="RU000A0JVWB3" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.5." Emitent_name="АО &quot;Тинькофф Банк&quot;" Emitent_name_eng="Tinkoff Bank">
+      <Paper GOS_REG="4B020702673B" ISIN="RU000A0JWM31" DocTitle="Пресс-релиз Банка России от 19.04.2017" Vestnik="39 (1872)" Vestnik_date="20.04.2017" New="False" />
+      <Paper GOS_REG="4B020102673B001P" ISIN="RU000A0JXQ85" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.6." Emitent_name="АО РОСЭКСИМБАНК" Emitent_name_eng="EXIMBANK OF RUSSIA">
+      <Paper GOS_REG="40102790B" ISIN="RU000A0JVYG8" DocTitle="Пресс-релиз Банка России от 03.02.2016" Vestnik="10 (1728)" Vestnik_date="05.02.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.7." Emitent_name="Банк ВТБ (ПАО)" Emitent_name_eng="VTB Bank (PJSC)">
+      <Paper GOS_REG="4B024301000B" ISIN="RU000A0JU773" DocTitle="Пресс-релиз Банка России от 30.10.2013" Vestnik="59 (1455)" Vestnik_date="30.10.2013" New="False" />
+      <Paper GOS_REG="4B023001000B" ISIN="RU000A0JV3Q3" DocTitle="Пресс-релиз Банка России от 18.03.2015" Vestnik="22 (1618)" Vestnik_date="18.03.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.8." Emitent_name="Банк ГПБ (АО)" Emitent_name_eng="Bank GPB (JSC)">
+      <Paper GOS_REG="41200354B" ISIN="RU000A0JT6J5" DocTitle="Письмо Банка России от 26.12.2012 № 182-Т" Vestnik="77 (1395)" Vestnik_date="28.12.2012" New="False" />
+      <Paper GOS_REG="4B020700354B" ISIN="RU000A0JU7Y9" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+      <Paper GOS_REG="4B020800354B" ISIN="RU000A0JUMH3" DocTitle="Пресс-релиз Банка России от 02.07.2014" Vestnik="63 (1541)" Vestnik_date="09.07.2014" New="False" />
+      <Paper GOS_REG="4B020900354B" ISIN="RU000A0JUQ39" DocTitle="Пресс-релиз Банка России от 30.07.2014" Vestnik="70 (1548)" Vestnik_date="31.07.2014" New="False" />
+      <Paper GOS_REG="4B021000354B" ISIN="RU000A0JUV08" DocTitle="Пресс-релиз Банка России от 21.10.2014" Vestnik="98 (1576)" Vestnik_date="22.10.2014" New="False" />
+      <Paper GOS_REG="4B021600354B" ISIN="RU000A0JXP45" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.9." Emitent_name="ВЭБ.РФ, ВЭБ" Emitent_name_eng="VEB.RF, VEB, &quot;Bank for development&quot;">
+      <Paper GOS_REG="4-10-00004-T" ISIN="RU000A0JRTN2" DocTitle="Письмо Банка России от 16.12.2011 № 187-Т" Vestnik="72 (1315)" Vestnik_date="21.12.2011" New="False" />
+      <Paper GOS_REG="4-26-00004-T" ISIN="RU000A0JS4Z7" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+      <Paper GOS_REG="4-23-00004-T" ISIN="RU000A0JT403" DocTitle="Письмо Банка России от 10.12.2012 № 168-Т" Vestnik="72 (1390)" Vestnik_date="12.12.2012" New="False" />
+      <Paper GOS_REG="4-24-00004-T" ISIN="RU000A0JT6B2" DocTitle="Письмо Банка России от 10.12.2012 № 168-Т" Vestnik="72 (1390)" Vestnik_date="12.12.2012" New="False" />
+      <Paper GOS_REG="4B02-03-00004-T-001P" ISIN="RU000A0JWNE4" DocTitle="Пресс-релиз Банка России от 30.11.2016" Vestnik="105 (1823)" Vestnik_date="30.11.2016" New="False" />
+      <Paper GOS_REG="4B02-08-00004-T-001P" ISIN="RU000A0JXU48" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+      <Paper GOS_REG="4B02-09-00004-T-001P" ISIN="RU000A0JXU71" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.10." Emitent_name="КБ &quot;МИА&quot; (АО)" Emitent_name_eng="Bank JSC MMA">
+      <Paper GOS_REG="4B020203344B" ISIN="RU000A0JVA77" DocTitle="Пресс-релиз Банка России от 07.05.2015" Vestnik="40 (1636)" Vestnik_date="07.05.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.11." Emitent_name="ПАО &quot;Промсвязьбанк&quot;" Emitent_name_eng="Promsvyazbank PJSC">
+      <Paper GOS_REG="40301470B" ISIN="RU000A0JS1F5" DocTitle="Письмо Банка России от 18.05.2012 № 72-Т" Vestnik="27 (1345)" Vestnik_date="25.05.2012" New="False" />
+      <Paper GOS_REG="40401470B" ISIN="RU000A0JS793" DocTitle="Письмо Банка России от 09.07.2012 № 100-Т" Vestnik="36 (1354)" Vestnik_date="11.07.2012" New="False" />
+      <Paper GOS_REG="40501470B" ISIN="RU000A0JS710" DocTitle="Письмо Банка России от 15.08.2012 № 117-Т" Vestnik="50 (1368)" Vestnik_date="22.08.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.12." Emitent_name="ПАО &quot;Совкомбанк&quot;" Emitent_name_eng="PJSC &quot;Sovcombank&quot;">
+      <Paper GOS_REG="4B020300963B" ISIN="RU000A0JWPA7" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.13." Emitent_name="ПАО Банк &quot;ФК Открытие&quot;" Emitent_name_eng="&quot;Bank Otkritie Financial Corporation&quot; (Public Joint-Stock Company)">
+      <Paper GOS_REG="40901776B" ISIN="RU000A0JU872" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+      <Paper GOS_REG="4B020401776B" ISIN="RU000A0JV3L4" DocTitle="Пресс-релиз Банка России от 02.02.2015" Vestnik="9 (1605)" Vestnik_date="04.02.2015" New="False" />
+      <Paper GOS_REG="4B020702209B" ISIN="RU000A0JV573" DocTitle="Пресс-релиз Банка России от 18.02.2015" Vestnik="15 (1611)" Vestnik_date="19.02.2015" New="False" />
+      <Paper GOS_REG="4B020102209B001P" ISIN="RU000A0JVC59" DocTitle="Пресс-релиз Банка России от 07.05.2015" Vestnik="40 (1636)" Vestnik_date="07.05.2015" New="False" />
+      <Paper GOS_REG="4B020302209B001P" ISIN="RU000A0JXLR8" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.14." Emitent_name="ПАО Банк ЗЕНИТ" Emitent_name_eng="PJSC Bank ZENIT">
+      <Paper GOS_REG="4B021303255B" ISIN="RU000A0JUPW5" DocTitle="Пресс-релиз Банка России от 30.07.2014" Vestnik="70 (1548)" Vestnik_date="31.07.2014" New="False" />
+      <Paper GOS_REG="4B020903255B" ISIN="RU000A0JVBX1" DocTitle="Пресс-релиз Банка России от 04.06.2015" Vestnik="50 (1646)" Vestnik_date="10.06.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.15." Emitent_name="ПАО РОСБАНК" Emitent_name_eng="PJSC ROSBANK">
+      <Paper GOS_REG="4B020503338B" ISIN="RU000A0JS6M0" DocTitle="Пресс-релиз Банка России от 04.12.2013" Vestnik="70 (1466)" Vestnik_date="04.12.2013" New="False" />
+      <Paper GOS_REG="4B022503338B" ISIN="RU000A0JVNB2" DocTitle="Пресс-релиз Банка России от 03.09.2015" Vestnik="75 (1671)" Vestnik_date="04.09.2015" New="False" />
+      <Paper GOS_REG="4B021903338B" ISIN="RU000A0JVWA5" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+      <Paper GOS_REG="4B020803338B" ISIN="RU000A0JVUY9" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+      <Paper GOS_REG="4B022003338B" ISIN="RU000A0JWGS8" DocTitle="Пресс-релиз Банка России от 08.07.2016" Vestnik="65 (1783)" Vestnik_date="13.07.2016" New="False" />
+      <Paper GOS_REG="4B022603338B" ISIN="RU000A0JWNB0" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+      <Paper GOS_REG="4B021502272B" ISIN="RU000A0JX2D1" DocTitle="Пресс-релиз Банка России от 27.02.2017" Vestnik="25 (1859)" Vestnik_date="01.03.2017" New="False" />
+      <Paper GOS_REG="4B021402272B" ISIN="RU000A0JX2F6" DocTitle="Пресс-релиз Банка России от 27.02.2017" Vestnik="25 (1859)" Vestnik_date="01.03.2017" New="False" />
+      <Paper GOS_REG="4B021203338B" ISIN="RU000A0JWUB5" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.16." Emitent_name="ПАО Сбербанк" Emitent_name_eng="Sberbank">
+      <Paper GOS_REG="4B023701481B" ISIN="RU000A0JWUE9" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B021901481B" ISIN="RU000A0JXRW5" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.1." em_id="5.1.17." Emitent_name="ТКБ БАНК ПАО" Emitent_name_eng="TKB">
+      <Paper GOS_REG="4B020202210B" ISIN="RU000A0JTYQ1" DocTitle="Пресс-релиз Банка России от 04.12.2013" Vestnik="70 (1466)" Vestnik_date="04.12.2013" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.1." Emitent_name="АК &quot;АЛРОСА&quot; (ПАО)" Emitent_name_eng="PJSC &quot;ALROSA&quot;">
+      <Paper GOS_REG="4B02-03-40046-N" ISIN="RU000A101PG7" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-05-40046-N" ISIN="RU000A101PD4" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-07-40046-N" ISIN="RU000A101PC6" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-04-40046-N" ISIN="RU000A101PF9" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+      <Paper GOS_REG="4B02-06-40046-N" ISIN="RU000A101PB8" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.2." Emitent_name="АО &quot;АВТОБАН-Финанс&quot;" Emitent_name_eng="&quot;AVTOBAN-Finance&quot;, JSC">
+      <Paper GOS_REG="4-01-82416-H" ISIN="RU000A0JWM49" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+      <Paper GOS_REG="4B02-01-82416-H-001P" ISIN="RU000A0JXQ51" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.3." Emitent_name="АО &quot;Атомэнергопром&quot;" Emitent_name_eng="JSC &quot;AEP&quot;">
+      <Paper GOS_REG="4B02-08-55319-E" ISIN="RU000A0JW175" DocTitle="Пресс-релиз Банка России от 25.01.2017" Vestnik="10 (1844)" Vestnik_date="25.01.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.4." Emitent_name="АО &quot;БСК&quot;" Emitent_name_eng="Bashkir soda company JSC">
+      <Paper GOS_REG="4B02-01-01068-K-001P" ISIN="RU000A0ZYR18" DocTitle="Пресс-релиз Банка России от 20.06.2018" Vestnik="49 (2003)" Vestnik_date="20.06.2018" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.5." Emitent_name="АО &quot;Вертолеты России&quot;" Emitent_name_eng="JSC &quot;Russian Helicopters&quot;">
+      <Paper GOS_REG="4B02-02-12310-A" ISIN="RU000A0JUAT3" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+      <Paper GOS_REG="4B02-01-12310-A" ISIN="RU000A0JW3A6" DocTitle="Пресс-релиз Банка России от 07.04.2016" Vestnik="37 (1755)" Vestnik_date="13.04.2016" New="False" />
+      <Paper GOS_REG="4B02-04-12310-A" ISIN="RU000A0ZYMM1" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-03-12310-A" ISIN="RU000A0ZYMN9" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.6." Emitent_name="АО &quot;ДОМ.РФ&quot;" Emitent_name_eng="JSC &quot;DOM.RF&quot;">
+      <Paper GOS_REG="4-15-00739-A" ISIN="RU000A0JQAM6" DocTitle="Письмо Банка России от 03.11.2009 № 136-Т" Vestnik="63 (1154)" Vestnik_date="11.11.2009" New="False" />
+      <Paper GOS_REG="4-14-00739-A" ISIN="RU000A0JQAL8" DocTitle="Письмо Банка России от 03.11.2009 № 136-Т" Vestnik="63 (1154)" Vestnik_date="11.11.2009" New="False" />
+      <Paper GOS_REG="4-16-00739-A" ISIN="RU000A0JQXG0" DocTitle="Письмо Банка России от 06.09.2010 № 122-Т" Vestnik="52 (1221)" Vestnik_date="15.09.2010" New="False" />
+      <Paper GOS_REG="4-17-00739-A" ISIN="RU000A0JR5F7" DocTitle="Письмо Банка России от 21.04.2011 № 56-Т" Vestnik="22 (1265)" Vestnik_date="27.04.2011" New="False" />
+      <Paper GOS_REG="4-18-00739-A" ISIN="RU000A0JRDY3" DocTitle="Письмо Банка России от 21.06.2011 № 91-Т" Vestnik="34 (1277)" Vestnik_date="29.06.2011" New="False" />
+      <Paper GOS_REG="4-24-00739-A" ISIN="RU000A0JTDX1" DocTitle="Письмо Банка России от 26.12.2012 № 182-Т" Vestnik="77 (1395)" Vestnik_date="28.12.2012" New="False" />
+      <Paper GOS_REG="4-25-00739-A" ISIN="RU000A0JTW83" DocTitle="Письмо Банка России от 27.06.2013 № 120-Т" Vestnik="37 (1433)" Vestnik_date="10.07.2013" New="False" />
+      <Paper GOS_REG="4-30-00739-A" ISIN="RU000A0JUKX4" DocTitle="Пресс-релиз Банка России от 03.06.2014" Vestnik="53 (1531)" Vestnik_date="05.06.2014" New="False" />
+      <Paper GOS_REG="4-26-00739-A" ISIN="RU000A0JTZF1" DocTitle="Пресс-релиз Банка России от 18.03.2015" Vestnik="22 (1618)" Vestnik_date="18.03.2015" New="False" />
+      <Paper GOS_REG="4-31-00739-A" ISIN="RU000A0JV4R9" DocTitle="Пресс-релиз Банка России от 29.04.2016" Vestnik="43 (1761)" Vestnik_date="06.05.2016" New="False" />
+      <Paper GOS_REG="4B02-05-00739-A" ISIN="RU000A0JX2R1" DocTitle="Пресс-релиз Банка России от 25.01.2017" Vestnik="10 (1844)" Vestnik_date="25.01.2017" New="False" />
+      <Paper GOS_REG="4B02-07-00739-A" ISIN="RU000A0ZYF38" DocTitle="Пресс-релиз Банка России от 18.12.2017" Vestnik="108 (1942)" Vestnik_date="18.12.2017" New="False" />
+      <Paper GOS_REG="4B02-06-00739-A" ISIN="RU000A0ZYF20" DocTitle="Пресс-релиз Банка России от 18.12.2017" Vestnik="108 (1942)" Vestnik_date="18.12.2017" New="False" />
+      <Paper GOS_REG="4B02-10-00739-A" ISIN="RU000A0ZYFN3" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="4B02-08-00739-A" ISIN="RU000A0ZYFM5" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="4B02-01-00739-A-001P" ISIN="RU000A0ZYLU6" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-02-00739-A-001P" ISIN="RU000A0ZYQU5" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-03-00739-A-001P" ISIN="RU000A0ZZ1N0" DocTitle="Пресс-релиз Банка России от 28.11.2018" Vestnik="85 (2039)" Vestnik_date="28.11.2018" New="False" />
+      <Paper GOS_REG="4B02-04-00739-A-001P" ISIN="RU000A0ZZ7C0" DocTitle="Пресс-релиз Банка России от 28.11.2018" Vestnik="85 (2039)" Vestnik_date="28.11.2018" New="False" />
+      <Paper GOS_REG="4B02-05-00739-A-001P" ISIN="RU000A1004W6" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+      <Paper GOS_REG="4B02-06-00739-A-001P" ISIN="RU000A100ET6" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-07-00739-A-001P" ISIN="RU000A101590" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-08-00739-A-001P" ISIN="RU000A101SQ0" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.7." Emitent_name="АО &quot;ЗСД&quot;" Emitent_name_eng="WHSD">
+      <Paper GOS_REG="4-01-00350-D" ISIN="RU000A0JRJB8" DocTitle="Письмо Банка России от 17.02.2012 № 24-Т" Vestnik="8 (1326)" Vestnik_date="22.02.2012" New="False" />
+      <Paper GOS_REG="4-02-00350-D" ISIN="RU000A0JRJL7" DocTitle="Письмо Банка России от 17.02.2012 № 24-Т" Vestnik="8 (1326)" Vestnik_date="22.02.2012" New="False" />
+      <Paper GOS_REG="4-03-00350-D" ISIN="RU000A0JS4J1" DocTitle="Письмо Банка России от 04.04.2012 № 46-Т" Vestnik="19 (1337)" Vestnik_date="11.04.2012" New="False" />
+      <Paper GOS_REG="4-05-00350-D" ISIN="RU000A0JS4L7" DocTitle="Письмо Банка России от 04.04.2012 № 46-Т" Vestnik="19 (1337)" Vestnik_date="11.04.2012" New="False" />
+      <Paper GOS_REG="4-04-00350-D" ISIN="RU000A0JS4K9" DocTitle="Письмо Банка России от 04.04.2012 № 46-Т" Vestnik="19 (1337)" Vestnik_date="11.04.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.8." Emitent_name="АО &quot;МХК &quot;ЕвроХим&quot;" Emitent_name_eng="MCC EuroChem, JSC">
+      <Paper GOS_REG="4B02-03-31153-H-001P" ISIN="RU000A1008Z0" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+      <Paper GOS_REG="4B02-04-31153-H-001P" ISIN="RU000A100LS3" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-06-31153-H-001P" ISIN="RU000A100RG5" DocTitle="Пресс-релиз Банка России от 30.10.2019" Vestnik="70 (2122)" Vestnik_date="30.10.2019" New="False" />
+      <Paper GOS_REG="4B02-05-31153-H-001P" ISIN="RU000A100LV7" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-08-31153-H-001P" ISIN="RU000A101LJ0" DocTitle="Пресс-релиз Банка России от 10.06.2020" Vestnik="44 (2180)" Vestnik_date="10.06.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.9." Emitent_name="АО &quot;ПКТ&quot;" Emitent_name_eng="&quot;FCT&quot; Inc.">
+      <Paper GOS_REG="4-01-03924-J" ISIN="RU000A0JW0S4" DocTitle="Пресс-релиз Банка России от 07.04.2016" Vestnik="37 (1755)" Vestnik_date="13.04.2016" New="False" />
+      <Paper GOS_REG="4-02-03924-J" ISIN="RU000A0JW5E3" DocTitle="Пресс-релиз Банка России от 29.04.2016" Vestnik="43 (1761)" Vestnik_date="06.05.2016" New="False" />
+      <Paper GOS_REG="4-03-03924-J" ISIN="RU000A0JWBP5" DocTitle="Пресс-релиз Банка России от 29.04.2016" Vestnik="43 (1761)" Vestnik_date="06.05.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.10." Emitent_name="АО &quot;Почта России&quot;" Emitent_name_eng="JSC Russian Post">
+      <Paper GOS_REG="4B02-02-00005-T" ISIN="RU000A0JWGV2" DocTitle="Пресс-релиз Банка России от 08.07.2016" Vestnik="65 (1783)" Vestnik_date="13.07.2016" New="False" />
+      <Paper GOS_REG="4B02-03-00005-T" ISIN="RU000A0JWTL6" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B02-04-00005-T" ISIN="RU000A0JXMP0" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+      <Paper GOS_REG="4B02-02-00005-T-001P" ISIN="RU000A0JXRD5" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+      <Paper GOS_REG="4B02-03-00005-T-001P" ISIN="RU000A0JXS59" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+      <Paper GOS_REG="4B02-04-00005-T-001P" ISIN="RU000A0ZZ5H3" DocTitle="Пресс-релиз Банка России от 20.06.2018" Vestnik="49 (2003)" Vestnik_date="20.06.2018" New="False" />
+      <Paper GOS_REG="4B02-05-00005-T-001P" ISIN="RU000A0ZZ5J9" DocTitle="Пресс-релиз Банка России от 20.06.2018" Vestnik="49 (2003)" Vestnik_date="20.06.2018" New="False" />
+      <Paper GOS_REG="4B02-07-00005-T-001P" ISIN="RU000A1008Y3" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+      <Paper GOS_REG="4B02-06-00005-T-001P" ISIN="RU000A100SZ3" DocTitle="Пресс-релиз Банка России от 30.10.2019" Vestnik="70 (2122)" Vestnik_date="30.10.2019" New="False" />
+      <Paper GOS_REG="4B02-08-00005-T-001P" ISIN="RU000A100UT2" DocTitle="Пресс-релиз Банка России от 30.10.2019" Vestnik="70 (2122)" Vestnik_date="30.10.2019" New="False" />
+      <Paper GOS_REG="4B02-10-16643-A-001P" ISIN="RU000A101ZH4" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.11." Emitent_name="АО &quot;РОСНАНО&quot;" Emitent_name_eng="RUSNANO">
+      <Paper GOS_REG="4-06-55477-E" ISIN="RU000A0JVVA7" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+      <Paper GOS_REG="4-07-55477-E" ISIN="RU000A0JW1G7" DocTitle="Пресс-релиз Банка России от 25.02.2016" Vestnik="19 (1737)" Vestnik_date="26.02.2016" New="False" />
+      <Paper GOS_REG="4B02-01-55477-E-002P" ISIN="RU000A100ER0" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4-08-55477-E" ISIN="RU000A1008V9" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-03-55477-E-002P" ISIN="RU000A100YR8" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.12." Emitent_name="АО &quot;Теле2-Санкт-Петербург&quot;" Emitent_name_eng="JSC &quot;Tele2-Saint-Petersburg&quot;">
+      <Paper GOS_REG="4-03-00740-D" ISIN="RU000A0JRKM3" DocTitle="Письмо Банка России от 28.09.2011 № 142-Т" Vestnik="55 (1298)" Vestnik_date="05.10.2011" New="False" />
+      <Paper GOS_REG="4-02-00740-D" ISIN="RU000A0JRKD2" DocTitle="Письмо Банка России от 28.09.2011 № 142-Т" Vestnik="55 (1298)" Vestnik_date="05.10.2011" New="False" />
+      <Paper GOS_REG="4-01-00740-D" ISIN="RU000A0JRKC4" DocTitle="Письмо Банка России от 28.09.2011 № 142-Т" Vestnik="55 (1298)" Vestnik_date="05.10.2011" New="False" />
+      <Paper GOS_REG="4-05-00740-D" ISIN="RU000A0JS3L9" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+      <Paper GOS_REG="4-04-00740-D" ISIN="RU000A0JS3M7" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+      <Paper GOS_REG="4-07-00740-D" ISIN="RU000A0JRVU3" DocTitle="Письмо Банка России от 09.07.2012 № 100-Т" Vestnik="36 (1354)" Vestnik_date="11.07.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.13." Emitent_name="АО &quot;Трансмашхолдинг&quot;" Emitent_name_eng="JSC &quot;Transmashholding&quot;">
+      <Paper GOS_REG="4B02-02-35992-H-001P" ISIN="RU000A0ZZRZ9" DocTitle="Пресс-релиз Банка России от 13.02.2019" Vestnik="10 (2062)" Vestnik_date="13.02.2019" New="False" />
+      <Paper GOS_REG="4B02-03-35992-H-001P" ISIN="RU000A1009M6" DocTitle="Пресс-релиз Банка России от 30.10.2019" Vestnik="70 (2122)" Vestnik_date="30.10.2019" New="False" />
+      <Paper GOS_REG="4B02-04-35992-H-001P" ISIN="RU000A1018C8" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-05-35992-H-001P" ISIN="RU000A101PU8" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.14." Emitent_name="АО &quot;ФПК&quot;" Emitent_name_eng="JSC &quot;FPC&quot;">
+      <Paper GOS_REG="4B02-01-55465-E-001P" ISIN="RU000A0JXQ28" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+      <Paper GOS_REG="4B02-02-55465-E-001P" ISIN="RU000A0ZYLF7" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-03-55465-E-001P" ISIN="RU000A0ZYX69" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-05-55465-E-001P" ISIN="RU000A0ZZTL5" DocTitle="Пресс-релиз Банка России от 13.02.2019" Vestnik="10 (2062)" Vestnik_date="13.02.2019" New="False" />
+      <Paper GOS_REG="4B02-04-55465-E-001P" ISIN="RU000A0ZZRK1" DocTitle="Пресс-релиз Банка России от 13.02.2019" Vestnik="10 (2062)" Vestnik_date="13.02.2019" New="False" />
+      <Paper GOS_REG="4B02-06-55465-E-001P" ISIN="RU000A100E88" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-07-55465-E-001P" ISIN="RU000A1012B3" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.15." Emitent_name="АО &quot;ХК &quot;МЕТАЛЛОИНВЕСТ&quot;" Emitent_name_eng="JSC &quot;HC &quot;METALLOINVEST&quot;">
+      <Paper GOS_REG="4-01-25642-H" ISIN="RU000A0JS5B5" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+      <Paper GOS_REG="4-06-25642-H" ISIN="RU000A0JS5L4" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+      <Paper GOS_REG="4-05-25642-H" ISIN="RU000A0JS5A7" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+      <Paper GOS_REG="4-03-25642-H" ISIN="RU000A0JTLL9" DocTitle="Письмо Банка России от 21.03.2013 № 43-Т" Vestnik="19 (1415)" Vestnik_date="27.03.2013" New="False" />
+      <Paper GOS_REG="4-02-25642-H" ISIN="RU000A0JTLJ3" DocTitle="Письмо Банка России от 21.03.2013 № 43-Т" Vestnik="19 (1415)" Vestnik_date="27.03.2013" New="False" />
+      <Paper GOS_REG="4B02-07-25642-H" ISIN="RU000A0JW5H6" DocTitle="Пресс-релиз Банка России от 07.04.2016" Vestnik="37 (1755)" Vestnik_date="13.04.2016" New="False" />
+      <Paper GOS_REG="4B02-03-25642-H" ISIN="RU000A100YF3" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-04-25642-H" ISIN="RU000A101EF3" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.16." Emitent_name="АО &quot;Эталон ЛенСпецСМУ&quot;" Emitent_name_eng="AO Etalon LenSpetsSMU">
+      <Paper GOS_REG="4B02-01-17644-J-001P" ISIN="RU000A0JWLG3" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.17." Emitent_name="Государственная компания &quot;Автодор&quot;" Emitent_name_eng="&quot;RHW&quot; SC">
+      <Paper GOS_REG="4B02-02-00011-T-002P" ISIN="RU000A100048" DocTitle="Пресс-релиз Банка России от 13.02.2019" Vestnik="10 (2062)" Vestnik_date="13.02.2019" New="False" />
+      <Paper GOS_REG="4B02-01-00011-T-002P" ISIN="RU000A100030" DocTitle="Пресс-релиз Банка России от 13.02.2019" Vestnik="10 (2062)" Vestnik_date="13.02.2019" New="False" />
+      <Paper GOS_REG="4B02-05-00011-T-002P" ISIN="RU000A1017H9" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-01-00011-T-003P" ISIN="RU000A102H91" DocTitle="Пресс-релиз Банка России от 17.02.2021" Vestnik="9 (2249)" Vestnik_date="17.02.2021" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.18." Emitent_name="ОАО &quot;МРСК Урала&quot;" Emitent_name_eng="IDGC of Urals, JSC">
+      <Paper GOS_REG="4B02-03-32501-D" ISIN="RU000A100ZF0" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-04-32501-D" ISIN="RU000A100ZD5" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.19." Emitent_name="ОАО &quot;РЖД&quot;" Emitent_name_eng="JSCo &quot;RZD&quot;">
+      <Paper GOS_REG="4-19-65045-D" ISIN="RU000A0JQ7Z2" DocTitle="Письмо Банка России от 14.08.2009 № 98-Т" Vestnik="50 (1141)" Vestnik_date="19.08.2009" New="False" />
+      <Paper GOS_REG="4-23-65045-D" ISIN="RU000A0JQRD9" DocTitle="Письмо Банка России от 23.03.2010 № 35-Т" Vestnik="18 (1187)" Vestnik_date="31.03.2010" New="False" />
+      <Paper GOS_REG="4-32-65045-D" ISIN="RU000A0JSGV0" DocTitle="Письмо Банка России от 14.09.2012 № 131-Т" Vestnik="55 (1373)" Vestnik_date="19.09.2012" New="False" />
+      <Paper GOS_REG="4-28-65045-D" ISIN="RU000A0JTU85" DocTitle="Письмо Банка России от 27.06.2013 № 120-Т" Vestnik="37 (1433)" Vestnik_date="10.07.2013" New="False" />
+      <Paper GOS_REG="4-30-65045-D" ISIN="RU000A0JUAH8" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+      <Paper GOS_REG="4-33-65045-D" ISIN="RU000A0JVB19" DocTitle="Пресс-релиз Банка России от 07.05.2015" Vestnik="40 (1636)" Vestnik_date="07.05.2015" New="False" />
+      <Paper GOS_REG="4-34-65045-D" ISIN="RU000A0JVB27" DocTitle="Пресс-релиз Банка России от 07.05.2015" Vestnik="40 (1636)" Vestnik_date="07.05.2015" New="False" />
+      <Paper GOS_REG="4-35-65045-D" ISIN="RU000A0JVKH5" DocTitle="Пресс-релиз Банка России от 05.11.2015" Vestnik="96 (1692)" Vestnik_date="05.11.2015" New="False" />
+      <Paper GOS_REG="4B02-02-65045-D" ISIN="RU000A0JVW71" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+      <Paper GOS_REG="4B02-07-65045-D" ISIN="RU000A0JWC82" DocTitle="Пресс-релиз Банка России от 29.04.2016" Vestnik="43 (1761)" Vestnik_date="06.05.2016" New="False" />
+      <Paper GOS_REG="4B02-17-65045-D" ISIN="RU000A0JWHU2" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4-41-65045-D" ISIN="RU000A0JX1S1" DocTitle="Пресс-релиз Банка России от 27.02.2017" Vestnik="25 (1859)" Vestnik_date="01.03.2017" New="False" />
+      <Paper GOS_REG="4B02-01-65045-D-001P" ISIN="RU000A0JXN05" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+      <Paper GOS_REG="4B02-02-65045-D-001P" ISIN="RU000A0JXQ44" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+      <Paper GOS_REG="4B02-03-65045-D-001P" ISIN="RU000A0JXR84" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+      <Paper GOS_REG="4B02-04-65045-D-001P" ISIN="RU000A0JXZB2" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="4B02-11-65045-D" ISIN="RU000A0JXJK7" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="4B02-05-65045-D-001P" ISIN="RU000A0ZYU05" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-06-65045-D-001P" ISIN="RU000A0ZZ4P9" DocTitle="Пресс-релиз Банка России от 25.07.2018" Vestnik="58 (2012)" Vestnik_date="26.07.2018" New="False" />
+      <Paper GOS_REG="4B02-07-65045-D-001P" ISIN="RU000A0ZZ9R4" DocTitle="Пресс-релиз Банка России от 25.07.2018" Vestnik="58 (2012)" Vestnik_date="26.07.2018" New="False" />
+      <Paper GOS_REG="4B02-08-65045-D-001P" ISIN="RU000A0ZZGT5" DocTitle="Пресс-релиз Банка России от 17.10.2018" Vestnik="78 (2032)" Vestnik_date="17.10.2018" New="False" />
+      <Paper GOS_REG="4-36-65045-D" ISIN="RU000A0JVY04" DocTitle="Пресс-релиз Банка России от 17.10.2018" Vestnik="78 (2032)" Vestnik_date="17.10.2018" New="False" />
+      <Paper GOS_REG="4B02-09-65045-D-001P" ISIN="RU000A0ZZRY2" DocTitle="Пресс-релиз Банка России от 28.11.2018" Vestnik="85 (2039)" Vestnik_date="28.11.2018" New="False" />
+      <Paper GOS_REG="4B02-10-65045-D-001P" ISIN="RU000A0ZZX19" DocTitle="Пресс-релиз Банка России от 13.02.2019" Vestnik="10 (2062)" Vestnik_date="13.02.2019" New="False" />
+      <Paper GOS_REG="4B02-12-65045-D-001P" ISIN="RU000A1002C2" DocTitle="Пресс-релиз Банка России от 27.03.2019" Vestnik="22 (2074)" Vestnik_date="27.03.2019" New="False" />
+      <Paper GOS_REG="4B02-14-65045-D-001P" ISIN="RU000A1008D7" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+      <Paper GOS_REG="4B02-17-65045-D-001P" ISIN="RU000A1010M4" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-16-65045-D-001P" ISIN="RU000A100HY9" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-13-65045-D-001P" ISIN="RU000A1007Z2" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-18-65045-D-001P" ISIN="RU000A101H84" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-20-65045-D-001P" ISIN="RU000A101M04" DocTitle="Пресс-релиз Банка России от 10.06.2020" Vestnik="44 (2180)" Vestnik_date="10.06.2020" New="False" />
+      <Paper GOS_REG="4B02-21-65045-D-001P" ISIN="RU000A102QP4" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.20." Emitent_name="ООО &quot;БКЕ&quot;" Emitent_name_eng="OOO BKE">
+      <Paper GOS_REG="4B02-03-36403-R-001P" ISIN="RU000A100G03" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-02-36403-R-001P" ISIN="RU000A100A33" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.21." Emitent_name="ООО &quot;Газпром капитал&quot;" Emitent_name_eng="&quot;Gazprom capital LLC&quot;">
+      <Paper GOS_REG="4B02-06-36400-R" ISIN="RU000A0JXFY6" DocTitle="Пресс-релиз Банка России от 19.04.2017" Vestnik="39 (1872)" Vestnik_date="20.04.2017" New="False" />
+      <Paper GOS_REG="4B02-05-36400-R" ISIN="RU000A0JXFS8" DocTitle="Пресс-релиз Банка России от 19.04.2017" Vestnik="39 (1872)" Vestnik_date="20.04.2017" New="False" />
+      <Paper GOS_REG="4B02-02-36400-R" ISIN="RU000A0ZYUW3" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="4B02-01-36400-R" ISIN="RU000A0ZYUV5" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="4B02-03-36400-R" ISIN="RU000A0ZYUY9" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="4B02-04-36400-R" ISIN="RU000A0ZYV04" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="4B02-01-36400-R-001P" ISIN="RU000A100EX8" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-02-36400-R-001P" ISIN="RU000A100LL8" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-03-36400-R-001P" ISIN="RU000A101QM3" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-04-36400-R-001P" ISIN="RU000A101QN1" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.22." Emitent_name="ООО &quot;ДелоПортс&quot;" Emitent_name_eng="OOO &quot;DeloPorts&quot;">
+      <Paper GOS_REG="4-01-36485-R" ISIN="RU000A0JVZB6" DocTitle="Пресс-релиз Банка России от 31.05.2016" Vestnik="50 (1768)" Vestnik_date="01.06.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.23." Emitent_name="ООО &quot;ЕвразХолдинг Финанс&quot;" Emitent_name_eng="EvrazHolding Finance LLC">
+      <Paper GOS_REG="4B02-01-36383-R-002P" ISIN="RU000A100P85" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.24." Emitent_name="ООО &quot;ИКС 5 ФИНАНС&quot;" Emitent_name_eng="X5 FINANSE">
+      <Paper GOS_REG="4B02-04-36241-R" ISIN="RU000A0JVUX1" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+      <Paper GOS_REG="4B02-05-36241-R" ISIN="RU000A0JW9G0" DocTitle="Пресс-релиз Банка России от 29.04.2016" Vestnik="43 (1761)" Vestnik_date="06.05.2016" New="False" />
+      <Paper GOS_REG="4B02-06-36241-R" ISIN="RU000A0JWG05" DocTitle="Пресс-релиз Банка России от 31.05.2016" Vestnik="50 (1768)" Vestnik_date="01.06.2016" New="False" />
+      <Paper GOS_REG="4B02-07-36241-R" ISIN="RU000A0JWPL4" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4B02-01-36241-R-001P" ISIN="RU000A0JWUD1" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.25." Emitent_name="ООО &quot;Лента&quot;" Emitent_name_eng="LLC Lenta">
+      <Paper GOS_REG="4B02-06-36420-R" ISIN="RU000A0JVRN8" DocTitle="Пресс-релиз Банка России от 02.10.2015" Vestnik="84 (1680)" Vestnik_date="02.10.2015" New="False" />
+      <Paper GOS_REG="4B02-02-36420-R-001P" ISIN="RU000A100782" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+      <Paper GOS_REG="4B02-03-36420-R-001P" ISIN="RU000A1011A7" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-04-36420-R-001P" ISIN="RU000A101R33" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.26." Emitent_name="ООО &quot;О`КЕЙ&quot;" Emitent_name_eng="O`KEY, LLC">
+      <Paper GOS_REG="4B02-01-36415-R-001P" ISIN="RU000A0JXQH8" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.27." Emitent_name="ООО &quot;РСГ - Финанс&quot;" Emitent_name_eng="LLC RSG - Finance">
+      <Paper GOS_REG="4B02-01-36399-R" ISIN="RU000A0JUAG0" DocTitle="Пресс-релиз Банка России от 19.03.2014" Vestnik="29 (1507)" Vestnik_date="20.03.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.28." Emitent_name="ООО &quot;Сэтл Групп&quot;" Emitent_name_eng="&quot;Setl Group&quot; LTD">
+      <Paper GOS_REG="4B02-01-36160-R-001P" ISIN="RU000A0ZYEQ9" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.29." Emitent_name="ПАО &quot;Акрон&quot;" Emitent_name_eng="PJSC Acron">
+      <Paper GOS_REG="4-06-00207-A" ISIN="RU000A0JRHG1" DocTitle="Письмо Банка России от 10.08.2011 № 116-Т" Vestnik="47 (1290)" Vestnik_date="17.08.2011" New="False" />
+      <Paper GOS_REG="4-05-00207-A" ISIN="RU000A0JRHF3" DocTitle="Письмо Банка России от 10.08.2011 № 116-Т" Vestnik="47 (1290)" Vestnik_date="17.08.2011" New="False" />
+      <Paper GOS_REG="4B02-01-00207-A-001P" ISIN="RU000A0JWV89" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B02-02-00207-A-001P" ISIN="RU000A0JXSS1" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+      <Paper GOS_REG="4B02-03-00207-A-001P" ISIN="RU000A100YU2" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.30." Emitent_name="ПАО &quot;ВымпелКом&quot;" Emitent_name_eng="PJSC &quot;VimpelCom&quot;">
+      <Paper GOS_REG="4-04-00027-A" ISIN="RU000A0JS5F6" DocTitle="Письмо Банка России от 09.07.2012 № 100-Т" Vestnik="36 (1354)" Vestnik_date="11.07.2012" New="False" />
+      <Paper GOS_REG="4-01-00027-A" ISIN="RU000A0JS5E9" DocTitle="Письмо Банка России от 09.07.2012 № 100-Т" Vestnik="36 (1354)" Vestnik_date="11.07.2012" New="False" />
+      <Paper GOS_REG="4-02-00027-A" ISIN="RU000A0JS5M2" DocTitle="Письмо Банка России от 09.07.2012 № 100-Т" Vestnik="36 (1354)" Vestnik_date="11.07.2012" New="False" />
+      <Paper GOS_REG="4B02-03-00027-A" ISIN="RU000A0JVUP7" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.31." Emitent_name="ПАО &quot;Газпром нефть&quot;" Emitent_name_eng="Gazprom Neft PJSC">
+      <Paper GOS_REG="4B02-03-00146-A" ISIN="RU000A0JWK41" DocTitle="Пресс-релиз Банка России от 08.07.2016" Vestnik="65 (1783)" Vestnik_date="13.07.2016" New="False" />
+      <Paper GOS_REG="4B02-01-00146-A" ISIN="RU000A0JWRE5" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4B02-04-00146-A" ISIN="RU000A0JWRF2" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4B02-01-00146-A-001P" ISIN="RU000A0JXNF9" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+      <Paper GOS_REG="4B02-03-00146-A-001P" ISIN="RU000A0ZYDS7" DocTitle="Пресс-релиз Банка России от 18.12.2017" Vestnik="108 (1942)" Vestnik_date="18.12.2017" New="False" />
+      <Paper GOS_REG="4B02-04-00146-A-001P" ISIN="RU000A0ZYLC4" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-05-00146-A-001P" ISIN="RU000A0ZYLQ4" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-06-00146-A-001P" ISIN="RU000A0ZYXV9" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="4B02-01-00146-A-003P" ISIN="RU000A101137" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-02-00146-A-003P" ISIN="RU000A1017J5" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-03-00146-A-003P" ISIN="RU000A101GJ0" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.32." Emitent_name="ПАО &quot;Газпром&quot;" Emitent_name_eng="PJSC &quot;GAZPROM&quot;">
+      <Paper GOS_REG="4B02-22-00028-A" ISIN="RU000A0ZZES2" DocTitle="Пресс-релиз Банка России от 29.08.2018" Vestnik="64 (2018)" Vestnik_date="29.08.2018" New="False" />
+      <Paper GOS_REG="4B02-23-00028-A" ISIN="RU000A0ZZET0" DocTitle="Пресс-релиз Банка России от 29.08.2018" Vestnik="64 (2018)" Vestnik_date="29.08.2018" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.33." Emitent_name="ПАО &quot;ГМК &quot;Норильский никель&quot;" Emitent_name_eng="PJSC &quot;MMC &quot;NORILSK NICKEL&quot;">
+      <Paper GOS_REG="4B02-01-40155-F-001P" ISIN="RU000A100VQ6" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.34." Emitent_name="ПАО &quot;Группа ЛСР&quot;" Emitent_name_eng="PJSC LSR Group">
+      <Paper GOS_REG="4B02-01-55234-E-001P" ISIN="RU000A0JWU98" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B02-02-55234-E-001P" ISIN="RU000A0JXPM0" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.35." Emitent_name="ПАО &quot;КАМАЗ&quot;" Emitent_name_eng="KAMAZ PTC">
+      <Paper GOS_REG="4-09-55010-D" ISIN="RU000A0ZZ885" DocTitle="Пресс-релиз Банка России от 22.07.2015" Vestnik="60 (1656)" Vestnik_date="22.07.2015" New="False" />
+      <Paper GOS_REG="4-10-55010-D" ISIN="RU000A0ZZ877" DocTitle="Пресс-релиз Банка России от 29.08.2018" Vestnik="64 (2018)" Vestnik_date="29.08.2018" New="False" />
+      <Paper GOS_REG="4-11-55010-D" ISIN="RU000A0ZZ893" DocTitle="Пресс-релиз Банка России от 29.08.2018" Vestnik="64 (2018)" Vestnik_date="29.08.2018" New="False" />
+      <Paper GOS_REG="4B02-01-55010-D-001P" ISIN="RU000A1003C0" DocTitle="Пресс-релиз Банка России от 27.03.2019" Vestnik="22 (2074)" Vestnik_date="27.03.2019" New="False" />
+      <Paper GOS_REG="4B02-03-55010-D-001P" ISIN="RU000A100FR7" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-02-55010-D-001P" ISIN="RU000A1007V1" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-04-55010-D-001P" ISIN="RU000A100K49" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-05-55010-D-001P" ISIN="RU000A100YK3" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-06-55010-D-001P" ISIN="RU000A101FR5" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.36." Emitent_name="ПАО &quot;Магнит&quot;" Emitent_name_eng="PJSC &quot;Magnit&quot;">
+      <Paper GOS_REG="4B02-01-60525-P-003P" ISIN="RU000A1002U4" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+      <Paper GOS_REG="4B02-05-60525-P-003P" ISIN="RU000A1018X4" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4B02-04-60525-P-003P" ISIN="RU000A100ZS3" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4B02-01-60525-P-002P" ISIN="RU000A101HJ8" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-03-60525-P-002P" ISIN="RU000A101PJ1" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+      <Paper GOS_REG="4B02-02-60525-P-002P" ISIN="RU000A101MC3" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.37." Emitent_name="ПАО &quot;МегаФон&quot;" Emitent_name_eng="PJSC &quot;MegaFon&quot;">
+      <Paper GOS_REG="4B02-02-00822-J-001P" ISIN="RU000A0JWKA8" DocTitle="Пресс-релиз Банка России от 25.01.2017" Vestnik="10 (1844)" Vestnik_date="25.01.2017" New="False" />
+      <Paper GOS_REG="4B02-03-00822-J-001P" ISIN="RU000A0ZYC98" DocTitle="Пресс-релиз Банка России от 18.12.2017" Vestnik="108 (1942)" Vestnik_date="18.12.2017" New="False" />
+      <Paper GOS_REG="4B02-05-00822-J-001P" ISIN="RU000A1002P4" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+      <Paper GOS_REG="4B02-06-00822-J-001P" ISIN="RU000A1006G4" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.38." Emitent_name="ПАО &quot;МОСТОТРЕСТ&quot;" Emitent_name_eng="PJSC &quot;MOSTOTREST&quot;">
+      <Paper GOS_REG="4-07-02472-A" ISIN="RU000A0JWN63" DocTitle="Пресс-релиз Банка России от 26.08.2016" Vestnik="77 (1795)" Vestnik_date="31.08.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.39." Emitent_name="ПАО &quot;МОЭК&quot;" Emitent_name_eng="JSC &quot;MIPC&quot;">
+      <Paper GOS_REG="4B02-01-55039-E-001P" ISIN="RU000A1005H4" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-02-55039-E-001P" ISIN="RU000A100AN7" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-03-55039-E-001P" ISIN="RU000A101228" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-04-55039-E-001P" ISIN="RU000A101XS6" DocTitle="Пресс-релиз Банка России от 17.02.2021" Vestnik="9 (2249)" Vestnik_date="17.02.2021" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.40." Emitent_name="ПАО &quot;МРСК Центра и Приволжья&quot;" Emitent_name_eng="IDGC of Center and Volga Region, PJSC">
+      <Paper GOS_REG="4B02-02-12665-E" ISIN="RU000A101459" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-01-12665-E-001P" ISIN="RU000A101RF5" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.41." Emitent_name="ПАО &quot;МРСК Центра&quot;" Emitent_name_eng="IDGC of Centre, PJSC">
+      <Paper GOS_REG="4B02-01-10214-A-001P" ISIN="RU000A1012N8" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-02-10214-A-001P" ISIN="RU000A101RH1" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.42." Emitent_name="ПАО &quot;МТС&quot;" Emitent_name_eng="MTS PJSC">
+      <Paper GOS_REG="4B02-01-04715-A" ISIN="RU000A0JTTA5" DocTitle="Пресс-релиз Банка России от 20.11.2013" Vestnik="64 (1460)" Vestnik_date="20.11.2013" New="False" />
+      <Paper GOS_REG="4B02-02-04715-A" ISIN="RU000A0JWRV9" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4B02-01-04715-A-001P" ISIN="RU000A0JXEV5" DocTitle="Пресс-релиз Банка России от 19.04.2017" Vestnik="39 (1872)" Vestnik_date="20.04.2017" New="False" />
+      <Paper GOS_REG="4B02-03-04715-A-001P" ISIN="RU000A0ZYFC6" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-06-04715-A-001P" ISIN="RU000A0ZYWY5" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-05-04715-A-001P" ISIN="RU000A0ZYWX7" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-07-04715-A-001P" ISIN="RU000A100238" DocTitle="Пресс-релиз Банка России от 27.03.2019" Vestnik="22 (2074)" Vestnik_date="27.03.2019" New="False" />
+      <Paper GOS_REG="4B02-09-04715-A-001P" ISIN="RU000A100A66" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+      <Paper GOS_REG="4B02-08-04715-A-001P" ISIN="RU000A100A58" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+      <Paper GOS_REG="4B02-10-04715-A-001P" ISIN="RU000A100HU7" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-12-04715-A-001P" ISIN="RU000A100ZK0" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-14-04715-A-001P" ISIN="RU000A101FH6" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4B02-13-04715-A-001P" ISIN="RU000A101939" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4B02-15-04715-A-001P" ISIN="RU000A101NG2" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+      <Paper GOS_REG="4B02-17-04715-A-001P" ISIN="RU000A101RD0" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.43." Emitent_name="ПАО &quot;НГК &quot;Славнефть&quot;" Emitent_name_eng="SLAVNEFT">
+      <Paper GOS_REG="4B02-02-00221-A-001P" ISIN="RU000A1007H0" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+      <Paper GOS_REG="4B02-03-00221-A-001P" ISIN="RU000A1013U1" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4B02-01-00221-A-001P" ISIN="RU000A101T64" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.44." Emitent_name="ПАО &quot;Нижнекамскнефтехим&quot;" Emitent_name_eng="PJSC Nizhnekamskneftekhim">
+      <Paper GOS_REG="4B02-01-00096-A-001P" ISIN="RU000A0ZZZ17" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.45." Emitent_name="ПАО &quot;НК &quot;Роснефть&quot;" Emitent_name_eng="Rosneft">
+      <Paper GOS_REG="4-05-00122-A" ISIN="RU000A0JT965" DocTitle="Письмо Банка России от 26.12.2012 № 182-Т" Vestnik="77 (1395)" Vestnik_date="28.12.2012" New="False" />
+      <Paper GOS_REG="4-04-00122-A" ISIN="RU000A0JT940" DocTitle="Письмо Банка России от 26.12.2012 № 182-Т" Vestnik="77 (1395)" Vestnik_date="28.12.2012" New="False" />
+      <Paper GOS_REG="4-07-00122-A" ISIN="RU000A0JTS06" DocTitle="Письмо Банка России от 27.06.2013 № 120-Т" Vestnik="37 (1433)" Vestnik_date="10.07.2013" New="False" />
+      <Paper GOS_REG="4-08-00122-A" ISIN="RU000A0JTS22" DocTitle="Письмо Банка России от 27.06.2013 № 120-Т" Vestnik="37 (1433)" Vestnik_date="10.07.2013" New="False" />
+      <Paper GOS_REG="4-09-00122-A" ISIN="RU000A0JTYM0" DocTitle="Пресс-релиз Банка России от 14.08.2013" Vestnik="43 (1439)" Vestnik_date="14.08.2013" New="False" />
+      <Paper GOS_REG="4-06-00122-A" ISIN="RU000A0JTYL2" DocTitle="Пресс-релиз Банка России от 14.08.2013" Vestnik="43 (1439)" Vestnik_date="14.08.2013" New="False" />
+      <Paper GOS_REG="4-10-00122-A" ISIN="RU000A0JTYN8" DocTitle="Пресс-релиз Банка России от 14.08.2013" Vestnik="43 (1439)" Vestnik_date="14.08.2013" New="False" />
+      <Paper GOS_REG="4B02-06-00122-A" ISIN="RU000A0JUCR3" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+      <Paper GOS_REG="4B02-05-00122-A" ISIN="RU000A0JUCS1" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+      <Paper GOS_REG="4B02-01-00122-A" ISIN="RU000A0JUFU0" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="4B02-07-00122-A" ISIN="RU000A0JUFV8" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="4B02-14-00122-A" ISIN="RU000A0JV227" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-13-00122-A" ISIN="RU000A0JV268" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-11-00122-A" ISIN="RU000A0JV243" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-10-00122-A" ISIN="RU000A0JV235" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-09-00122-A" ISIN="RU000A0JV219" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-08-00122-A" ISIN="RU000A0JV201" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-04-00122-A" ISIN="RU000A0JV1Y1" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-03-00122-A" ISIN="RU000A0JV1X3" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-02-00122-A" ISIN="RU000A0JV1W5" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-12-00122-A" ISIN="RU000A0JV250" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-01-00122-A-001P" ISIN="RU000A0JX132" DocTitle="Пресс-релиз Банка России от 19.12.2016" Vestnik="112 (1230)" Vestnik_date="21.12.2016" New="False" />
+      <Paper GOS_REG="4B02-02-00122-A-001P" ISIN="RU000A0JX355" DocTitle="Пресс-релиз Банка России от 25.01.2017" Vestnik="10 (1844)" Vestnik_date="25.01.2017" New="False" />
+      <Paper GOS_REG="4B02-04-00122-A-001P" ISIN="RU000A0JXQK2" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+      <Paper GOS_REG="4B02-06-00122-A-001P" ISIN="RU000A0JXXD3" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-07-00122-A-001P" ISIN="RU000A0JXXE1" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-08-00122-A-001P" ISIN="RU000A0ZYCP5" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-02-00122-A-002P" ISIN="RU000A0ZYJJ3" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-03-00122-A-002P" ISIN="RU000A0ZYLG5" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-01-00122-A-002P" ISIN="RU000A0ZYJH7" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-05-00122-A-002P" ISIN="RU000A0ZYVU5" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-04-00122-A-002P" ISIN="RU000A0ZYT40" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-08-00122-A-002P" ISIN="RU000A100KY3" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-06-00122-A-002P" ISIN="RU000A1008P1" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-09-00122-A-002P" ISIN="RU000A100YQ0" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-10-00122-A-002P" ISIN="RU000A101SF3" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-02-00122-A-003P" ISIN="RU000A102EE4" DocTitle="Пресс-релиз Банка России от 23.12.2020" Vestnik="102 (2238)" Vestnik_date="23.12.2020" New="False" />
+      <Paper GOS_REG="4B02-01-00122-A-003P" ISIN="RU000A102EF1" DocTitle="Пресс-релиз Банка России от 23.12.2020" Vestnik="102 (2238)" Vestnik_date="23.12.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.46." Emitent_name="ПАО &quot;ОГК-2&quot;" Emitent_name_eng="JSC &quot;OGK-2&quot;">
+      <Paper GOS_REG="4B02-03-65105-D-001P" ISIN="RU000A0ZZ1H2" DocTitle="Пресс-релиз Банка России от 20.06.2018" Vestnik="49 (2003)" Vestnik_date="20.06.2018" New="False" />
+      <Paper GOS_REG="4B02-01-65105-D-002P" ISIN="RU000A101WR0" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.47." Emitent_name="ПАО &quot;ПИК СЗ&quot;" Emitent_name_eng="PJSC &quot;PIK SHb&quot;">
+      <Paper GOS_REG="4B02-03-01556-A-001P" ISIN="RU000A0JXY44" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.48." Emitent_name="ПАО &quot;Полюс&quot;" Emitent_name_eng="PJSC Polyus">
+      <Paper GOS_REG="4B02-01-55192-E" ISIN="RU000A0JVMD0" DocTitle="Пресс-релиз Банка России от 03.09.2015" Vestnik="75 (1671)" Vestnik_date="04.09.2015" New="False" />
+      <Paper GOS_REG="4B02-02-55192-E" ISIN="RU000A0JVM99" DocTitle="Пресс-релиз Банка России от 03.09.2015" Vestnik="75 (1671)" Vestnik_date="04.09.2015" New="False" />
+      <Paper GOS_REG="4B02-03-55192-E" ISIN="RU000A0JVMB4" DocTitle="Пресс-релиз Банка России от 03.09.2015" Vestnik="75 (1671)" Vestnik_date="04.09.2015" New="False" />
+      <Paper GOS_REG="4B02-01-55192-E-001P" ISIN="RU000A100XC2" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.49." Emitent_name="ПАО &quot;Россети Ленэнерго&quot;" Emitent_name_eng="&quot;Rosseti Lenenergo&quot;, PJSC">
+      <Paper GOS_REG="4B02-03-00073-A" ISIN="RU000A101DE8" DocTitle="Пресс-релиз Банка России от 10.06.2020" Vestnik="44 (2180)" Vestnik_date="10.06.2020" New="False" />
+      <Paper GOS_REG="4B02-04-00073-A" ISIN="RU000A101DF5" DocTitle="Пресс-релиз Банка России от 10.06.2020" Vestnik="44 (2180)" Vestnik_date="10.06.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.50." Emitent_name="ПАО &quot;Россети Московский регион&quot;" Emitent_name_eng="PJSC &quot;Rosseti Moscow Region&quot;">
+      <Paper GOS_REG="4B02-10-65116-D" ISIN="RU000A0JXR50" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+      <Paper GOS_REG="4B02-01-65116-D-001P" ISIN="RU000A100AD8" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-02-65116-D-001P" ISIN="RU000A101FY1" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-03-65116-D-001P" ISIN="RU000A101XH9" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.51." Emitent_name="ПАО &quot;Россети&quot;" Emitent_name_eng="PJSC &quot;ROSSETI&quot;">
+      <Paper GOS_REG="4B02-01-55385-E-001P" ISIN="RU000A0JXVM8" DocTitle="Пресс-релиз Банка России от 20.06.2018" Vestnik="49 (2003)" Vestnik_date="20.06.2018" New="False" />
+      <Paper GOS_REG="4B02-02-55385-E-001P" ISIN="RU000A101MG4" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.52." Emitent_name="ПАО &quot;Ростелеком&quot;" Emitent_name_eng="PJSC &quot;Rostelecom&quot;">
+      <Paper GOS_REG="4B02-01-00124-A" ISIN="RU000A0JVFC6" DocTitle="Пресс-релиз Банка России от 03.07.2015" Vestnik="57 (1653)" Vestnik_date="08.07.2015" New="False" />
+      <Paper GOS_REG="4B02-01-00124-A-001P" ISIN="RU000A0JWTN2" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B02-02-00124-A-001P" ISIN="RU000A0JXPN8" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+      <Paper GOS_REG="4B02-03-00124-A-001P" ISIN="RU000A0ZYG52" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="4B02-04-00124-A-001P" ISIN="RU000A0ZYYE3" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="4B02-05-00124-A-001P" ISIN="RU000A100881" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+      <Paper GOS_REG="4B02-01-00124-A-002P" ISIN="RU000A101541" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-03-00124-A-002P" ISIN="RU000A101FG8" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4B02-02-00124-A-002P" ISIN="RU000A101FC7" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4B02-04-00124-A-002P" ISIN="RU000A101LY9" DocTitle="Пресс-релиз Банка России от 10.06.2020" Vestnik="44 (2180)" Vestnik_date="10.06.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.53." Emitent_name="ПАО &quot;РУСАЛ Братск&quot;" Emitent_name_eng="PJSC &quot;RUSAL Bratsk&quot;">
+      <Paper GOS_REG="4B02-01-20075-F" ISIN="RU000A0JWDN6" DocTitle="Пресс-релиз Банка России от 31.05.2016" Vestnik="50 (1768)" Vestnik_date="01.06.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.54." Emitent_name="ПАО &quot;РусГидро&quot;" Emitent_name_eng="PJSC &quot;RusHydro&quot;">
+      <Paper GOS_REG="4-07-55038-E" ISIN="RU000A0JTMG7" DocTitle="Письмо Банка России от 10.04.2013 № 64-Т" Vestnik="23 (1419)" Vestnik_date="17.04.2013" New="False" />
+      <Paper GOS_REG="4-08-55038-E" ISIN="RU000A0JTMK9" DocTitle="Письмо Банка России от 10.04.2013 № 64-Т" Vestnik="23 (1419)" Vestnik_date="17.04.2013" New="False" />
+      <Paper GOS_REG="4-09-55038-E" ISIN="RU000A0JVD25" DocTitle="Пресс-релиз Банка России от 04.06.2015" Vestnik="50 (1646)" Vestnik_date="10.06.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.55." Emitent_name="ПАО &quot;Северсталь&quot;" Emitent_name_eng="PAO Severstal">
+      <Paper GOS_REG="4B02-06-00143-A" ISIN="RU000A1008W7" DocTitle="Пресс-релиз Банка России от 05.06.2019" Vestnik="37 (2089)" Vestnik_date="05.06.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.56." Emitent_name="ПАО &quot;СИБУР Холдинг&quot;" Emitent_name_eng="PJSC &quot;SIBUR Holding&quot;">
+      <Paper GOS_REG="4B02-02-65134-D" ISIN="RU000A101Q59" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-01-65134-D" ISIN="RU000A101Q42" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.57." Emitent_name="ПАО &quot;Татнефть&quot; им. В.Д. Шашина" Emitent_name_eng="PJSC &quot;TATNEFT&quot;">
+      <Paper GOS_REG="4B02-01-00161-A-001P" ISIN="RU000A1018K1" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.58." Emitent_name="ПАО &quot;ТМК&quot;" Emitent_name_eng="TMK">
+      <Paper GOS_REG="4B02-05-29031-H" ISIN="RU000A0JWCM0" DocTitle="Пресс-релиз Банка России от 31.05.2016" Vestnik="50 (1768)" Vestnik_date="01.06.2016" New="False" />
+      <Paper GOS_REG="4B02-06-29031-H" ISIN="RU000A0JXPD9" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.59." Emitent_name="ПАО &quot;ТрансКонтейнер&quot;" Emitent_name_eng="PJSC TransContainer">
+      <Paper GOS_REG="4B02-02-55194-E" ISIN="RU000A0JWTH4" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B02-01-55194-E" ISIN="RU000A0ZYPG6" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-01-55194-E-001P" ISIN="RU000A100YE6" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.60." Emitent_name="ПАО &quot;Транснефть&quot;" Emitent_name_eng="Transneft">
+      <Paper GOS_REG="4B02-03-00206-A-001P" ISIN="RU000A0JWPW1" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4B02-02-00206-A-001P" ISIN="RU000A0JWMS6" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4B02-06-00206-A" ISIN="RU000A0JWS92" DocTitle="Пресс-релиз Банка России от 30.09.2016" Vestnik="87 (1805)" Vestnik_date="05.10.2016" New="False" />
+      <Paper GOS_REG="4B02-04-00206-A-001P" ISIN="RU000A0JWVC1" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B02-01-00206-A-001P" ISIN="RU000A0JWK90" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B02-05-00206-A-001P" ISIN="RU000A0JXC24" DocTitle="Пресс-релиз Банка России от 27.02.2017" Vestnik="25 (1859)" Vestnik_date="01.03.2017" New="False" />
+      <Paper GOS_REG="4B02-08-00206-A-001P" ISIN="RU000A0ZYDD9" DocTitle="Пресс-релиз Банка России от 14.02.2018" Vestnik="13 (1967)" Vestnik_date="14.02.2018" New="False" />
+      <Paper GOS_REG="4B02-09-00206-A-001P" ISIN="RU000A0ZYUS1" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-10-00206-A-001P" ISIN="RU000A0ZZ349" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="4B02-12-00206-A-001P" ISIN="RU000A100JF4" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-13-00206-A-001P" ISIN="RU000A1010B7" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.61." Emitent_name="ПАО &quot;Уралкалий&quot;" Emitent_name_eng="PJSC Uralkali">
+      <Paper GOS_REG="4B02-04-00296-A-001P" ISIN="RU000A0ZZ9W4" DocTitle="Пресс-релиз Банка России от 17.10.2018" Vestnik="78 (2032)" Vestnik_date="17.10.2018" New="False" />
+      <Paper GOS_REG="4B02-05-00296-A-001P" ISIN="RU000A0ZZT80" DocTitle="Пресс-релиз Банка России от 13.02.2019" Vestnik="10 (2062)" Vestnik_date="13.02.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.62." Emitent_name="ПАО &quot;ФСК ЕЭС&quot;" Emitent_name_eng="&quot;FGC UES&quot;, PJSC">
+      <Paper GOS_REG="4-13-65018-D" ISIN="RU000A0JRL96" DocTitle="Письмо Банка России от 28.09.2011 № 142-Т" Vestnik="55 (1298)" Vestnik_date="05.10.2011" New="False" />
+      <Paper GOS_REG="4-22-65018-D" ISIN="RU000A0JSQ58" DocTitle="Письмо Банка России от 14.11.2012 № 155-Т" Vestnik="66 (1384)" Vestnik_date="21.11.2012" New="False" />
+      <Paper GOS_REG="4-21-65018-D" ISIN="RU000A0JT7T2" DocTitle="Письмо Банка России от 10.12.2012 № 168-Т" Vestnik="72 (1390)" Vestnik_date="12.12.2012" New="False" />
+      <Paper GOS_REG="4B02-04-65018-D" ISIN="RU000A0ZYJ91" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="4B02-03-65018-D" ISIN="RU000A0ZYDH0" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+      <Paper GOS_REG="4B02-01-65018-D-001P" ISIN="RU000A0ZZQN7" DocTitle="Пресс-релиз Банка России от 28.11.2018" Vestnik="85 (2039)" Vestnik_date="28.11.2018" New="False" />
+      <Paper GOS_REG="4B02-04-65018-D-001P" ISIN="RU000A101CL5" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+      <Paper GOS_REG="4B02-05-65018-D-001P" ISIN="RU000A101LX1" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.63." Emitent_name="ПАО &quot;ЧТПЗ&quot;" Emitent_name_eng="PJSC &quot;Chelpipe&quot;">
+      <Paper GOS_REG="4B02-02-00182-A-001P" ISIN="RU000A0JXHE4" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+      <Paper GOS_REG="4B02-03-00182-A-001P" ISIN="RU000A0JXME4" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+      <Paper GOS_REG="4B02-04-00182-A-001P" ISIN="RU000A0JXTY7" DocTitle="Пресс-релиз Банка России от 29.08.2018" Vestnik="64 (2018)" Vestnik_date="29.08.2018" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.64." Emitent_name="ПАО АНК &quot;Башнефть&quot;" Emitent_name_eng="PJSOC Bashneft">
+      <Paper GOS_REG="4-04-00013-A" ISIN="RU000A0JS3U0" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+      <Paper GOS_REG="4-09-00013-A" ISIN="RU000A0JTM51" DocTitle="Письмо Банка России от 10.04.2013 № 64-Т" Vestnik="23 (1419)" Vestnik_date="17.04.2013" New="False" />
+      <Paper GOS_REG="4-07-00013-A" ISIN="RU000A0JTM36" DocTitle="Письмо Банка России от 10.04.2013 № 64-Т" Vestnik="23 (1419)" Vestnik_date="17.04.2013" New="False" />
+      <Paper GOS_REG="4-08-00013-A" ISIN="RU000A0JTM44" DocTitle="Письмо Банка России от 10.04.2013 № 64-Т" Vestnik="23 (1419)" Vestnik_date="17.04.2013" New="False" />
+      <Paper GOS_REG="4-06-00013-A" ISIN="RU000A0JTM28" DocTitle="Письмо Банка России от 10.04.2013 № 64-Т" Vestnik="23 (1419)" Vestnik_date="17.04.2013" New="False" />
+      <Paper GOS_REG="4B02-05-00013-A" ISIN="RU000A0JUML5" DocTitle="Пресс-релиз Банка России от 12.12.2014" Vestnik="111 (1589)" Vestnik_date="16.12.2014" New="False" />
+      <Paper GOS_REG="4B02-08-00013-A" ISIN="RU000A0JWGD0" DocTitle="Пресс-релиз Банка России от 25.01.2017" Vestnik="10 (1844)" Vestnik_date="25.01.2017" New="False" />
+      <Paper GOS_REG="4B02-06-00013-A" ISIN="RU000A0JWGC2" DocTitle="Пресс-релиз Банка России от 25.01.2017" Vestnik="10 (1844)" Vestnik_date="25.01.2017" New="False" />
+      <Paper GOS_REG="4B02-09-00013-A" ISIN="RU000A0JWX04" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-02-00013-A-001P" ISIN="RU000A0JX2X9" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.65." Emitent_name="ПАО АФК &quot;Система&quot;" Emitent_name_eng="Sistema PJSFC">
+      <Paper GOS_REG="4B02-01-01669-A-001P" ISIN="RU000A0JVUK8" DocTitle="Пресс-релиз Банка России от 08.07.2016" Vestnik="65 (1783)" Vestnik_date="13.07.2016" New="False" />
+      <Paper GOS_REG="4B02-04-01669-A-001P" ISIN="RU000A0JWYQ5" DocTitle="Пресс-релиз Банка России от 30.11.2016" Vestnik="105 (1823)" Vestnik_date="30.11.2016" New="False" />
+      <Paper GOS_REG="4B02-05-01669-A-001P" ISIN="RU000A0JWZY6" DocTitle="Пресс-релиз Банка России от 19.12.2016" Vestnik="112 (1230)" Vestnik_date="21.12.2016" New="False" />
+      <Paper GOS_REG="4B02-11-01669-A-001P" ISIN="RU000A100N12" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+      <Paper GOS_REG="4B02-13-01669-A-001P" ISIN="RU000A101Q26" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+      <Paper GOS_REG="4B02-15-01669-A-001P" ISIN="RU000A1023K1" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+      <Paper GOS_REG="4B02-14-01669-A-001P" ISIN="RU000A101XN7" DocTitle="Пресс-релиз Банка России от 18.11.2020" Vestnik="90 (2226)" Vestnik_date="18.11.2020" New="False" />
+      <Paper GOS_REG="4B02-17-01669-A-001P" ISIN="RU000A102FT9" DocTitle="Пресс-релиз Банка России от 17.02.2021" Vestnik="9 (2249)" Vestnik_date="17.02.2021" New="False" />
+      <Paper GOS_REG="4B02-18-01669-A-001P" ISIN="RU000A102SV8" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+      <Paper GOS_REG="4B02-10-01669-A-001P" ISIN="RU000A1008J4" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+      <Paper GOS_REG="4B02-09-01669-A-001P" ISIN="RU000A1005L6" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+      <Paper GOS_REG="4B02-12-01669-A-001P" ISIN="RU000A101012" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+      <Paper GOS_REG="4B02-07-01669-A-001P" ISIN="RU000A0ZYQY7" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+      <Paper GOS_REG="4B02-19-01669-A-001P" ISIN="RU000A102SX4" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.66." Emitent_name="ПАО Корпорация &quot;Иркут&quot;" Emitent_name_eng="Irkut Corporation">
+      <Paper GOS_REG="4B02-04-00040-A" ISIN="RU000A0JUA45" DocTitle="Пресс-релиз Банка России от 29.01.2014" Vestnik="10 (1488)" Vestnik_date="29.01.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.67." Emitent_name="АО &quot;ВЭБ-лизинг&quot;" Emitent_name_eng="JSC &quot;VEB-leasing&quot;">
+      <Paper GOS_REG="4-09-43801-H" ISIN="RU000A0JRV52" DocTitle="Письмо Банка России от 16.12.2011 № 187-Т" Vestnik="72 (1315)" Vestnik_date="21.12.2011" New="False" />
+      <Paper GOS_REG="4-08-43801-H" ISIN="RU000A0JRUY7" DocTitle="Письмо Банка России от 16.12.2011 № 187-Т" Vestnik="72 (1315)" Vestnik_date="21.12.2011" New="False" />
+      <Paper GOS_REG="4-26-43801-H" ISIN="RU000A0JUFE4" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="4-29-43801-H" ISIN="RU000A0JUFH7" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="4-28-43801-H" ISIN="RU000A0JUFG9" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="4-27-43801-H" ISIN="RU000A0JUFF1" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="4B02-05-43801-H" ISIN="RU000A0JV8G3" DocTitle="Пресс-релиз Банка России от 18.03.2015" Vestnik="22 (1618)" Vestnik_date="18.03.2015" New="False" />
+      <Paper GOS_REG="4B02-04-43801-H" ISIN="RU000A0JV8D0" DocTitle="Пресс-релиз Банка России от 18.03.2015" Vestnik="22 (1618)" Vestnik_date="18.03.2015" New="False" />
+      <Paper GOS_REG="4B02-07-43801-H" ISIN="RU000A0JV9H9" DocTitle="Пресс-релиз Банка России от 15.04.2015" Vestnik="34 (1630)" Vestnik_date="15.04.2015" New="False" />
+      <Paper GOS_REG="4B02-06-43801-H" ISIN="RU000A0JV9D8" DocTitle="Пресс-релиз Банка России от 15.04.2015" Vestnik="34 (1630)" Vestnik_date="15.04.2015" New="False" />
+      <Paper GOS_REG="4B02-01-43801-H-001P" ISIN="RU000A0JVNL1" DocTitle="Пресс-релиз Банка России от 03.09.2015" Vestnik="75 (1671)" Vestnik_date="04.09.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.68." Emitent_name="АО &quot;ГТЛК&quot;" Emitent_name_eng="JSC &quot;GTLK&quot;">
+      <Paper GOS_REG="4B02-04-32432-H" ISIN="RU000A0JVA10" DocTitle="Пресс-релиз Банка России от 15.04.2015" Vestnik="34 (1630)" Vestnik_date="15.04.2015" New="False" />
+      <Paper GOS_REG="4B02-05-32432-H" ISIN="RU000A0JVWD9" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+      <Paper GOS_REG="4B02-06-32432-H" ISIN="RU000A0JVWJ6" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+      <Paper GOS_REG="4B02-07-32432-H" ISIN="RU000A0JW1P8" DocTitle="Пресс-релиз Банка России от 25.02.2016" Vestnik="19 (1737)" Vestnik_date="26.02.2016" New="False" />
+      <Paper GOS_REG="4B02-08-32432-H" ISIN="RU000A0JWST1" DocTitle="Пресс-релиз Банка России от 02.11.2016" Vestnik="99 (1817)" Vestnik_date="03.11.2016" New="False" />
+      <Paper GOS_REG="4B02-03-32432-H-001P" ISIN="RU000A0JXE06" DocTitle="Пресс-релиз Банка России от 19.04.2017" Vestnik="39 (1872)" Vestnik_date="20.04.2017" New="False" />
+      <Paper GOS_REG="4B02-04-32432-H-001P" ISIN="RU000A0JXPG2" DocTitle="Пресс-релиз Банка России от 21.06.2017" Vestnik="53 (1887)" Vestnik_date="21.06.2017" New="False" />
+      <Paper GOS_REG="4B02-06-32432-H-001P" ISIN="RU000A0ZYAP9" DocTitle="Пресс-релиз Банка России от 18.12.2017" Vestnik="108 (1942)" Vestnik_date="18.12.2017" New="False" />
+      <Paper GOS_REG="4B02-07-32432-H-001P" ISIN="RU000A0ZYNY4" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-08-32432-H-001P" ISIN="RU000A0ZYR91" DocTitle="Пресс-релиз Банка России от 30.03.2018" Vestnik="27 (1981)" Vestnik_date="30.03.2018" New="False" />
+      <Paper GOS_REG="4B02-09-32432-H-001P" ISIN="RU000A0ZZ1J8" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="4B02-10-32432-H-001P" ISIN="RU000A0ZZ984" DocTitle="Пресс-релиз Банка России от 29.08.2018" Vestnik="64 (2018)" Vestnik_date="29.08.2018" New="False" />
+      <Paper GOS_REG="4B02-12-32432-H-001P" ISIN="RU000A0ZZV11" DocTitle="Пресс-релиз Банка России от 13.02.2019" Vestnik="10 (2062)" Vestnik_date="13.02.2019" New="False" />
+      <Paper GOS_REG="4B02-13-32432-H-001P" ISIN="RU000A1003A4" DocTitle="Пресс-релиз Банка России от 27.03.2019" Vestnik="22 (2074)" Vestnik_date="27.03.2019" New="False" />
+      <Paper GOS_REG="4B02-14-32432-H-001P" ISIN="RU000A100FE5" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-15-32432-H-001P" ISIN="RU000A100Z91" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-16-32432-H-001P" ISIN="RU000A101GD3" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-17-32432-H-001P" ISIN="RU000A101QL5" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-18-32432-H-001P" ISIN="RU000A101SC0" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+      <Paper GOS_REG="4B02-05-32432-H-001P" ISIN="RU000A0JY023" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+      <Paper GOS_REG="4B02-01-32432-H-002P" ISIN="RU000A102VR0" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.69." Emitent_name="АО &quot;ЛК &quot;Европлан&quot;" Emitent_name_eng="JSC &quot;LC &quot;Europlan&quot;">
+      <Paper GOS_REG="4B02-02-56453-P" ISIN="RU000A0JVQT7" DocTitle="Пресс-релиз Банка России от 02.10.2015" Vestnik="84 (1680)" Vestnik_date="02.10.2015" New="False" />
+      <Paper GOS_REG="4B02-07-56453-P" ISIN="RU000A0JWVL2" DocTitle="Пресс-релиз Банка России от 30.11.2016" Vestnik="105 (1823)" Vestnik_date="30.11.2016" New="False" />
+      <Paper GOS_REG="4B02-05-56453-P" ISIN="RU000A1004K1" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+      <Paper GOS_REG="4B02-06-56453-P" ISIN="RU000A100DG5" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-03-56453-P" ISIN="RU000A100W60" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-08-56453-P" ISIN="RU000A0ZZBV2" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.70." Emitent_name="ООО &quot;Балтийский лизинг&quot;" Emitent_name_eng="Baltic Leasing LLC">
+      <Paper GOS_REG="4B02-02-36442-R" ISIN="RU000A0JVRM0" DocTitle="Пресс-релиз Банка России от 25.02.2016" Vestnik="19 (1737)" Vestnik_date="26.02.2016" New="False" />
+      <Paper GOS_REG="4B02-02-36442-R-001P" ISIN="RU000A100JE7" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.71." Emitent_name="ООО &quot;ГТЛК-1520&quot;" Emitent_name_eng="GTLC-1520">
+      <Paper GOS_REG="4B02-02-00443-R-001P" ISIN="RU000A101D54" DocTitle="Пресс-релиз Банка России от 29.07.2020" Vestnik="57 (2193)" Vestnik_date="29.07.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.72." Emitent_name="ООО &quot;РЕСО-Лизинг&quot;" Emitent_name_eng="RESO - LEASING">
+      <Paper GOS_REG="4B02-01-36419-R" ISIN="RU000A0JU6M6" DocTitle="Пресс-релиз Банка России от 02.10.2015" Vestnik="84 (1680)" Vestnik_date="02.10.2015" New="False" />
+      <Paper GOS_REG="4B02-03-36419-R" ISIN="RU000A0JVUS1" DocTitle="Пресс-релиз Банка России от 16.12.2015" Vestnik="116 (1712)" Vestnik_date="17.12.2015" New="False" />
+      <Paper GOS_REG="4B02-04-36419-R" ISIN="RU000A0JVXS5" DocTitle="Пресс-релиз Банка России от 03.02.2016" Vestnik="10 (1728)" Vestnik_date="05.02.2016" New="False" />
+      <Paper GOS_REG="4B02-04-36419-R-001P" ISIN="RU000A100F95" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-02-36419-R-001P" ISIN="RU000A1004S4" DocTitle="Пресс-релиз Банка России от 31.07.2019" Vestnik="51 (2103)" Vestnik_date="31.07.2019" New="False" />
+      <Paper GOS_REG="4B02-06-36419-R-001P" ISIN="RU000A100PE4" DocTitle="Пресс-релиз Банка России от 04.09.2019" Vestnik="57 (2109)" Vestnik_date="05.09.2019" New="False" />
+      <Paper GOS_REG="4B02-07-36419-R-001P" ISIN="RU000A100XU4" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="4B02-05-36419-R" ISIN="RU000A0JWVT5" DocTitle="Пресс-релиз Банка России от 15.04.2020" Vestnik="28 (2164)" Vestnik_date="16.04.2020" New="False" />
+      <Paper GOS_REG="4B02-08-36419-R-001P" ISIN="RU000A102K39" DocTitle="Пресс-релиз Банка России от 28.04.2021" Vestnik="24 (2264)" Vestnik_date="28.04.2021" New="True" />
+    </Emitent>
+    <Emitent gr_id="5.2." em_id="5.2.73." Emitent_name="САО &quot;ВСК&quot;" Emitent_name_eng="&quot;VSK&quot;">
+      <Paper GOS_REG="4B02-01-10202-Z-001P" ISIN="RU000A0JXNB8" DocTitle="Пресс-релиз Банка России от 01.06.2017" Vestnik="48 (1882)" Vestnik_date="01.06.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.3." em_id="5.3.1." Emitent_name="АО &quot;Главная дорога&quot;" Emitent_name_eng="Main Road, JSC">
+      <Paper GOS_REG="4-06-12755-A" ISIN="RU000A0JTFB2" DocTitle="Письмо Банка России от 22.02.2013 № 26-Т" Vestnik="11 (1407)" Vestnik_date="27.02.2013" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.3." em_id="5.3.2." Emitent_name="АО &quot;ОДК&quot;" Emitent_name_eng="JSC &quot;UEC&quot;">
+      <Paper GOS_REG="4-01-14045-A" ISIN="RU000A0JWK74" DocTitle="Пресс-релиз Банка России от 08.07.2016" Vestnik="65 (1783)" Vestnik_date="13.07.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="5.3." em_id="5.3.3." Emitent_name="ООО &quot;СЗКК&quot;" Emitent_name_eng="&quot;NWCC&quot; LLC">
+      <Paper GOS_REG="4-01-36388-R" ISIN="RU000A0JRU20" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+      <Paper GOS_REG="4-02-36388-R" ISIN="RU000A0JRU46" DocTitle="Письмо Банка России от 05.06.2012 № 82-Т" Vestnik="30 (1348)" Vestnik_date="15.06.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="6." em_id="6.1." Emitent_name="&quot;МИБ&quot;" Emitent_name_eng="&quot;IIB&quot;">
+      <Paper GOS_REG="RU000A0JUG56" ISIN="RU000A0JUG56" DocTitle="Пресс-релиз Банка России от 03.06.2014" Vestnik="53 (1531)" Vestnik_date="05.06.2014" New="False" />
+      <Paper GOS_REG="RU000A0JUG72" ISIN="RU000A0JUG72" DocTitle="Пресс-релиз Банка России от 04.06.2015" Vestnik="50 (1646)" Vestnik_date="10.06.2015" New="False" />
+      <Paper GOS_REG="RU000A0JUG98" ISIN="RU000A0JUG98" DocTitle="Пресс-релиз Банка России от 03.02.2016" Vestnik="10 (1728)" Vestnik_date="05.02.2016" New="False" />
+      <Paper GOS_REG="RU000A0JXT58" ISIN="RU000A0JXT58" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="6." em_id="6.2." Emitent_name="Евразийский банк развития" Emitent_name_eng="Eurasian Development bank">
+      <Paper GOS_REG="RU000A0JS918" ISIN="RU000A0JS918" DocTitle="Пресс-релиз Банка России от 02.07.2014" Vestnik="63 (1541)" Vestnik_date="09.07.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.1." Emitent_name="Borets Finance DAC" Emitent_name_eng="Borets Finance DAC">
+      <Paper GOS_REG="XS1596115409" ISIN="XS1596115409" DocTitle="Пресс-релиз Банка России от 10.11.2017" Vestnik="95 (1929)" Vestnik_date="15.11.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.2." Emitent_name="CBOM FINANCE PLC" Emitent_name_eng="CBOM FINANCE PLC">
+      <Paper GOS_REG="XS1510534677" ISIN="XS1510534677" DocTitle="Пресс-релиз Банка России от 19.12.2016" Vestnik="112 (1230)" Vestnik_date="21.12.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.3." Emitent_name="Eurasian Development Bank" Emitent_name_eng="Eurasian Development Bank">
+      <Paper GOS_REG="XS0831571434" ISIN="XS0831571434" DocTitle="Пресс-релиз Банка России от 01.10.2014" Vestnik="88 (1566)" Vestnik_date="03.10.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.4." Emitent_name="GAZ Capital S.A." Emitent_name_eng="GAZ Capital S.A.">
+      <Paper GOS_REG="XS0290580595" ISIN="XS0290580595" DocTitle="Письмо Банка России от 30.04.2010 № 63-Т" Vestnik="24 (1193)" Vestnik_date="06.05.2010" New="False" />
+      <Paper GOS_REG="XS0316524130" ISIN="XS0316524130" DocTitle="Письмо Банка России от 14.09.2012 № 131-Т" Vestnik="55 (1373)" Vestnik_date="19.09.2012" New="False" />
+      <Paper GOS_REG="XS0191754729" ISIN="XS0191754729" DocTitle="Письмо Банка России от 14.09.2012 № 131-Т" Vestnik="55 (1373)" Vestnik_date="19.09.2012" New="False" />
+      <Paper GOS_REG="XS0805570354" ISIN="XS0805570354" DocTitle="Пресс-релиз Банка России от 02.07.2014" Vestnik="63 (1541)" Vestnik_date="09.07.2014" New="False" />
+      <Paper GOS_REG="XS0885736925" ISIN="XS0885736925" DocTitle="Пресс-релиз Банка России от 02.07.2014" Vestnik="63 (1541)" Vestnik_date="09.07.2014" New="False" />
+      <Paper GOS_REG="XS0906949523" ISIN="XS0906949523" DocTitle="Пресс-релиз Банка России от 02.07.2014" Vestnik="63 (1541)" Vestnik_date="09.07.2014" New="False" />
+      <Paper GOS_REG="XS1585190389" ISIN="XS1585190389" DocTitle="Пресс-релиз Банка России от 10.11.2017" Vestnik="95 (1929)" Vestnik_date="15.11.2017" New="False" />
+      <Paper GOS_REG="XS1521039054" ISIN="XS1521039054" DocTitle="Пресс-релиз Банка России от 10.11.2017" Vestnik="95 (1929)" Vestnik_date="15.11.2017" New="False" />
+      <Paper GOS_REG="XS1721463500" ISIN="XS1721463500" DocTitle="Пресс-релиз Банка России от 07.05.2018" Vestnik="36 (1990)" Vestnik_date="07.05.2018" New="False" />
+      <Paper GOS_REG="XS1795409082" ISIN="XS1795409082" DocTitle="Пресс-релиз Банка России от 17.10.2018" Vestnik="78 (2032)" Vestnik_date="17.10.2018" New="False" />
+      <Paper GOS_REG="XS1951084471" ISIN="XS1951084471" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+      <Paper GOS_REG="XS1911645049" ISIN="XS1911645049" DocTitle="Пресс-релиз Банка России от 24.04.2019" Vestnik="29 (2081)" Vestnik_date="30.04.2019" New="False" />
+      <Paper GOS_REG="CH0404311711" ISIN="CH0404311711" DocTitle="Пресс-релиз Банка России от 23.03.2020" Vestnik="25 (2161)" Vestnik_date="25.03.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.5." Emitent_name="Gaz Finance Plc" Emitent_name_eng="Gaz Finance Plc">
+      <Paper GOS_REG="XS2157526315" ISIN="XS2157526315" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+      <Paper GOS_REG="XS2124187571" ISIN="XS2124187571" DocTitle="Пресс-релиз Банка России от 14.09.2020" Vestnik="72 (2208)" Vestnik_date="16.09.2020" New="False" />
+      <Paper GOS_REG="XS2196334671" ISIN="XS2196334671" DocTitle="Пресс-релиз Банка России от 23.12.2020" Vestnik="102 (2238)" Vestnik_date="23.12.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.6." Emitent_name="GPN Capital SA" Emitent_name_eng="GPN Capital SA">
+      <Paper GOS_REG="XS0830192711" ISIN="XS0830192711" DocTitle="Письмо Банка России от 21.03.2013 № 43-Т" Vestnik="19 (1415)" Vestnik_date="27.03.2013" New="False" />
+      <Paper GOS_REG="XS0997544860" ISIN="XS0997544860" DocTitle="Пресс-релиз Банка России от 30.07.2014" Vestnik="70 (1548)" Vestnik_date="31.07.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.7." Emitent_name="Lukoil International Finance B.V." Emitent_name_eng="Lukoil International Finance B.V.">
+      <Paper GOS_REG="XS0304274599" ISIN="XS0304274599" DocTitle="Письмо Банка России от 26.03.2008 № 30-Т" Vestnik="15 (1031)" Vestnik_date="02.04.2008" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.8." Emitent_name="MMC FINANCE LTD." Emitent_name_eng="MMC FINANCE LTD.">
+      <Paper GOS_REG="XS1298447019" ISIN="XS1298447019" DocTitle="Пресс-релиз Банка России от 05.11.2015" Vestnik="96 (1692)" Vestnik_date="05.11.2015" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.9." Emitent_name="MTS International Funding Ltd." Emitent_name_eng="MTS International Funding Ltd.">
+      <Paper GOS_REG="XS0921331509" ISIN="XS0921331509" DocTitle="Пресс-релиз Банка России от 03.06.2014" Vestnik="53 (1531)" Vestnik_date="05.06.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.10." Emitent_name="Novatek Finance Limited" Emitent_name_eng="Novatek Finance Limited">
+      <Paper GOS_REG="XS0864383723" ISIN="XS0864383723" DocTitle="Письмо Банка России от 21.03.2013 № 43-Т" Vestnik="19 (1415)" Vestnik_date="27.03.2013" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.11." Emitent_name="Phosagro Bond Funding Designated Activity Company" Emitent_name_eng="Phosagro Bond Funding Designated Activity Company">
+      <Paper GOS_REG="XS1599428726" ISIN="XS1599428726" DocTitle="Пресс-релиз Банка России от 10.11.2017" Vestnik="95 (1929)" Vestnik_date="15.11.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.12." Emitent_name="Polyus Finance Plc" Emitent_name_eng="Polyus Finance Plc">
+      <Paper GOS_REG="XS1405766384" ISIN="XS1405766384" DocTitle="Пресс-релиз Банка России от 10.11.2017" Vestnik="95 (1929)" Vestnik_date="15.11.2017" New="False" />
+      <Paper GOS_REG="XS1533922933" ISIN="XS1533922933" DocTitle="Пресс-релиз Банка России от 10.11.2017" Vestnik="95 (1929)" Vestnik_date="15.11.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.13." Emitent_name="Rosneft International Finance Limited" Emitent_name_eng="Rosneft International Finance Limited">
+      <Paper GOS_REG="XS0861981180" ISIN="XS0861981180" DocTitle="Пресс-релиз Банка России от 02.07.2014" Vestnik="63 (1541)" Vestnik_date="09.07.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.14." Emitent_name="Rushydro Capital Markets DAC" Emitent_name_eng="Rushydro Capital Markets DAC">
+      <Paper GOS_REG="XS2082937967" ISIN="XS2082937967" DocTitle="Пресс-релиз Банка России от 10.06.2020" Vestnik="44 (2180)" Vestnik_date="10.06.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.15." Emitent_name="RZD Capital Limited" Emitent_name_eng="RZD Capital Limited">
+      <Paper GOS_REG="XS0609017917" ISIN="XS0609017917" DocTitle="Письмо Банка России от 14.10.2011 № 147-Т" Vestnik="57 (1300)" Vestnik_date="20.10.2011" New="False" />
+      <Paper GOS_REG="XS0764220017" ISIN="XS0764220017" DocTitle="Письмо Банка России от 26.12.2012 № 182-Т" Vestnik="77 (1395)" Vestnik_date="28.12.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.16." Emitent_name="RZD Capital PLC" Emitent_name_eng="RZD Capital PLC">
+      <Paper GOS_REG="XS0919581982" ISIN="XS0919581982" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="XS1041815116" ISIN="XS1041815116" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="XS1502188375" ISIN="XS1502188375" DocTitle="Пресс-релиз Банка России от 19.04.2017" Vestnik="39 (1872)" Vestnik_date="20.04.2017" New="False" />
+      <Paper GOS_REG="XS1574068844" ISIN="XS1574068844" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+      <Paper GOS_REG="XS1574787294" ISIN="XS1574787294" DocTitle="Пресс-релиз Банка России от 04.07.2017" Vestnik="55 (1889)" Vestnik_date="05.07.2017" New="False" />
+      <Paper GOS_REG="XS1701384494" ISIN="XS1701384494" DocTitle="Пресс-релиз Банка России от 27.12.2017" Vestnik="118 (1952)" Vestnik_date="27.12.2017" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.17." Emitent_name="SB Capital S.A." Emitent_name_eng="SB Capital S.A.">
+      <Paper GOS_REG="XS0638572973" ISIN="XS0638572973" DocTitle="Письмо Банка России от 16.12.2011 № 187-Т" Vestnik="72 (1315)" Vestnik_date="21.12.2011" New="False" />
+      <Paper GOS_REG="XS0743596040" ISIN="XS0743596040" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.18." Emitent_name="Steel Capital S.A." Emitent_name_eng="Steel Capital S.A.">
+      <Paper GOS_REG="XS0841671000" ISIN="XS0841671000" DocTitle="Письмо Банка России от 10.12.2012 № 168-Т" Vestnik="72 (1390)" Vestnik_date="12.12.2012" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.19." Emitent_name="Steel Funding Limited" Emitent_name_eng="Steel Funding Limited">
+      <Paper GOS_REG="XS1405775617" ISIN="XS1405775617" DocTitle="Пресс-релиз Банка России от 19.12.2016" Vestnik="112 (1230)" Vestnik_date="21.12.2016" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.20." Emitent_name="Veb Finance Limited" Emitent_name_eng="Veb Finance Limited">
+      <Paper GOS_REG="XS0559915961" ISIN="XS0559915961" DocTitle="Письмо Банка России от 14.10.2011 № 147-Т" Vestnik="57 (1300)" Vestnik_date="20.10.2011" New="False" />
+      <Paper GOS_REG="XS0993162683" ISIN="XS0993162683" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+      <Paper GOS_REG="XS0893212398" ISIN="XS0893212398" DocTitle="Пресс-релиз Банка России от 30.04.2014" Vestnik="43 (1521)" Vestnik_date="08.05.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.21." Emitent_name="VEB Finance PLC" Emitent_name_eng="VEB Finance PLC">
+      <Paper GOS_REG="XS0800817073" ISIN="XS0800817073" DocTitle="Письмо Банка России от 21.03.2013 № 43-Т" Vestnik="19 (1415)" Vestnik_date="27.03.2013" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.22." Emitent_name="VimpelCom Holdings B.V." Emitent_name_eng="VimpelCom Holdings B.V.">
+      <Paper GOS_REG="XS0889401724" ISIN="XS0889401724" DocTitle="Пресс-релиз Банка России от 30.07.2014" Vestnik="70 (1548)" Vestnik_date="31.07.2014" New="False" />
+      <Paper GOS_REG="XS0643183220" ISIN="XS0643183220" DocTitle="Пресс-релиз Банка России от 30.07.2014" Vestnik="70 (1548)" Vestnik_date="31.07.2014" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.23." Emitent_name="VTB Capital S.A." Emitent_name_eng="VTB Capital S.A.">
+      <Paper GOS_REG="XS0223715920" ISIN="XS0223715920" DocTitle="Письмо Банка России от 29.11.2007 № 185-Т" Vestnik="67 (1011)" Vestnik_date="05.12.2007" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.24." Emitent_name="GTLK Europe Capital DAC" Emitent_name_eng="GTLK Europe Capital DAC">
+      <Paper GOS_REG="XS1713473608" ISIN="XS1713473608" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+      <Paper GOS_REG="XS2010044381" ISIN="XS2010044381" DocTitle="Пресс-релиз Банка России от 29.01.2020" Vestnik="10 (2146)" Vestnik_date="29.01.2020" New="False" />
+    </Emitent>
+    <Emitent gr_id="7." em_id="7.25." Emitent_name="GTLK Europe Ltd" Emitent_name_eng="GTLK Europe Ltd">
+      <Paper GOS_REG="XS1449458915" ISIN="XS1449458915" DocTitle="Пресс-релиз Банка России от 06.09.2017" Vestnik="77 (1911)" Vestnik_date="07.09.2017" New="False" />
+      <Paper GOS_REG="XS1577961516" ISIN="XS1577961516" DocTitle="Пресс-релиз Банка России от 06.09.2017" Vestnik="77 (1911)" Vestnik_date="07.09.2017" New="False" />
+    </Emitent>
+  </Papers>
+</LombardList>
